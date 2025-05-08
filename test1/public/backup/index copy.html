@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alquiler Piso Port Saplaya | Vistas al Mar | Valencia</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body class="font-sans bg-gray-50">
+    <!-- Header/Navbar -->
+    <header class="fixed w-full bg-white shadow-md z-50">
+        <nav class="container mx-auto px-6 py-3">
+            <div class="flex justify-between items-center">
+                <div class="flex items-center">
+                    <a href="#inicio">
+                        <i class="fas fa-umbrella-beach text-blue-500 text-2xl mr-2"></i>
+                        <span class="text-xl font-bold text-gray-800">Port Saplaya Living</span>
+                    </a>
+                </div>
+                <!-- Menú de escritorio -->
+                <div class="hidden md:flex space-x-8">
+                    <a href="#inicio" class="text-gray-800 hover:text-blue-500 transition cursor-pointer">Inicio</a>
+                    <a href="#galeria" class="text-gray-800 hover:text-blue-500 transition cursor-pointer">Galería</a>
+                    <a href="#detalles" class="text-gray-800 hover:text-blue-500 transition cursor-pointer">Detalles</a>
+                    <a href="#ubicacion" class="text-gray-800 hover:text-blue-500 transition cursor-pointer">Ubicación</a>
+                    <a href="#contacto" class="text-gray-800 hover:text-blue-500 transition cursor-pointer">Contacto</a>
+                    <a href="#" class="text-airbnb1 hover:text-airbnb2 transition cursor-pointer">Ver en Airbnb <i class="fa-brands fa-airbnb"></i></a>
+                </div>
+                <!-- Botón de menú móvil -->
+                <button id="mobile-menu-button" class="md:hidden text-gray-800 focus:outline-none">
+                    <i class="fas fa-bars text-2xl"></i>
+                </button>
+            </div>
+            <!-- Menú móvil (inicialmente oculto) -->
+            <div id="mobile-menu" class="hidden md:hidden mt-3 space-y-2 px-2 pt-2 pb-3">
+                <a href="#inicio" class="block px-3 py-2 rounded-md text-base font-medium text-gray-800 hover:text-blue-500 hover:bg-gray-100 transition">Inicio</a>
+                <a href="#galeria" class="block px-3 py-2 rounded-md text-base font-medium text-gray-800 hover:text-blue-500 hover:bg-gray-100 transition">Galería</a>
+                <a href="#detalles" class="block px-3 py-2 rounded-md text-base font-medium text-gray-800 hover:text-blue-500 hover:bg-gray-100 transition">Detalles</a>
+                <a href="#ubicacion" class="block px-3 py-2 rounded-md text-base font-medium text-gray-800 hover:text-blue-500 hover:bg-gray-100 transition">Ubicación</a>
+                <a href="#contacto" class="block px-3 py-2 rounded-md text-base font-medium text-gray-800 hover:text-blue-500 hover:bg-gray-100 transition">Contacto</a>
+                <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-airbnb1 hover:text-airbnb2 hover:bg-gray-100 transition">Ver en Airbnb <i class="fa-brands fa-airbnb"></i></a>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="inicio" class="hero-image pt-32 flex items-center justify-center text-white">
+        <div class="container mx-auto px-6 text-center">
+            <h1 class="text-4xl md:text-6xl font-bold mb-6">Piso en Port Saplaya con Vistas al Mar</h1>
+            <p class="text-xl md:text-2xl mb-8">Alquiler exclusivo en la pequeña Venecia de Valencia</p>
+            <div class="flex flex-col md:flex-row justify-center gap-4">
+                <a href="#contacto" class="bg-blue-500 hover:bg-blue-600 text-white px-8 py-3 rounded-full font-semibold transition duration-300 transform hover:scale-105 cursor-pointer">Contactar</a>
+                <a href="#galeria" class="bg-white hover:bg-gray-100 text-blue-500 px-8 py-3 rounded-full font-semibold transition duration-300 transform hover:scale-105 cursor-pointer">Ver Galería</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Overview -->
+    <section class="py-16 bg-white">
+        <div class="container mx-auto px-6">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
+                <div class="p-6 rounded-xl shadow-lg hover:shadow-xl transition">
+                    <i class="fas fa-bed text-blue-500 text-4xl mb-4"></i>
+                    <h3 class="text-xl font-semibold mb-2">2 Dormitorios</h3>
+                    <p class="text-gray-600">Amplias y luminosas con armarios empotrados</p>
+                </div>
+                <div class="p-6 rounded-xl shadow-lg hover:shadow-xl transition">
+                    <i class="fas fa-toilet text-blue-500 text-4xl mb-4"></i>
+                    <h3 class="text-xl font-semibold mb-2">2 Baños</h3>
+                    <p class="text-gray-600">Uno en suite con bañera hidromasaje</p>
+                </div>
+                <div class="p-6 rounded-xl shadow-lg hover:shadow-xl transition">
+                    <i class="fas fa-ruler-combined text-blue-500 text-4xl mb-4"></i>
+                    <h3 class="text-xl font-semibold mb-2">120 m²</h3>
+                    <p class="text-gray-600">Distribución inteligente y espacios amplios</p>
+                </div>
+                <div class="p-6 rounded-xl shadow-lg hover:shadow-xl transition">
+                    <i class="fas fa-water text-blue-500 text-4xl mb-4"></i>
+                    <h3 class="text-xl font-semibold mb-2">Vistas al mar</h3>
+                    <p class="text-gray-600">Terraza con vistas directas al Mediterráneo</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section id="galeria" class="py-16 bg-gray-50">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl font-bold text-center mb-12 text-gray-800">Galería del Piso</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- Main Image -->
+                <div class="md:col-span-2 lg:col-span-3 rounded-xl overflow-hidden shadow-lg gallery-image">
+                    <img src="../images/salon1.png" 
+                         alt="Salón principal con vistas al mar" class="w-full h-96 object-cover">
+                    <div class="px-6 py-4 bg-white">
+                        <p class="text-gray-700 text-base">Salón principal con acceso a terraza y vistas panorámicas al mar</p>
+                    </div>
+                </div>
+                
+                <!-- Secondary Images -->
+                <div class="rounded-xl overflow-hidden shadow-lg gallery-image">
+                    <img src="../images/cocina1.png" 
+                         alt="Cocina totalmente equipada" class="w-full h-64 object-cover">
+                    <div class="px-4 py-3 bg-white">
+                        <p class="text-gray-700 text-sm">Cocina moderna totalmente equipada</p>
+                    </div>
+                </div>
+                
+                <div class="rounded-xl overflow-hidden shadow-lg gallery-image">
+                    <img src="../images/dormitorio1.png" 
+                         alt="Dormitorio principal" class="w-full h-64 object-cover">
+                    <div class="px-4 py-3 bg-white">
+                        <p class="text-gray-700 text-sm">Dormitorio principal con baño en suite</p>
+                    </div>
+                </div>
+                
+                <div class="rounded-xl overflow-hidden shadow-lg gallery-image">
+                    <img src="../images/terraza1.png" 
+                         alt="Terraza con vistas" class="w-full h-64 object-cover">
+                    <div class="px-4 py-3 bg-white">
+                        <p class="text-gray-700 text-sm">Amplia terraza con zona de descanso</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="text-center mt-10">
+                <button id="viewMoreBtn" class="bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-full font-medium transition cursor-pointer">
+                    Ver más fotos <i class="fas fa-chevron-down ml-2"></i>
+                </button>
+                
+                <div id="morePhotos" class="hidden mt-6 grid grid-cols-1 md:grid-cols-3 gap-6">
+                    <div class="rounded-xl overflow-hidden shadow-lg gallery-image">
+                        <img src="../images/baño1.png" 
+                             alt="Baño principal" class="w-full h-64 object-cover">
+                        <div class="px-4 py-3 bg-white">
+                            <p class="text-gray-700 text-sm">Baño principal con bañera hidromasaje</p>
+                        </div>
+                    </div>
+                    
+                    <div class="rounded-xl overflow-hidden shadow-lg gallery-image">
+                        <img src="../images/comedor.png" 
+                             alt="Comedor" class="w-full h-64 object-cover">
+                        <div class="px-4 py-3 bg-white">
+                            <p class="text-gray-700 text-sm">Zona de comedor para 6 personas</p>
+                        </div>
+                    </div>
+                    
+                    <a href="https://www.airbnb.es/rooms/44516653?source_impression_id=p3_1746120124_P3OoX3gPOanD7BRx&modal=PHOTO_TOUR_SCROLLABLE" target="_blank" class="block rounded-xl overflow-hidden shadow-lg gallery-image no-underline text-current">
+                        <div class="w-full h-64 bg-blue-100 flex justify-center items-center">
+                            <!-- Contenido que estaba dentro del <a> original, ahora sin ser un enlace separado -->
+                            <span class="text-blue-800 text-xl font-semibold flex items-center">
+                                Ver más fotos en Airbnb <i class="fa-solid fa-up-right-from-square ml-2"></i>
+                            </span>
+                        </div>
+                        <div class="px-4 py-3 bg-white">
+                            <p class="text-gray-700 text-sm">+100 fotos disponibles</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Property Details -->
+    <section id="detalles" class="py-16 bg-white">
+        <div class="container mx-auto px-6">
+            <div class="flex flex-col lg:flex-row gap-12">
+                <div class="lg:w-2/3">
+                    <h2 class="text-3xl font-bold mb-6 text-gray-800">Detalles de la Propiedad</h2>
+                    
+                    <div class="mb-8">
+                        <h3 class="text-xl font-semibold mb-4 text-blue-500">Descripción</h3>
+                        <p class="text-gray-700 mb-4">Exclusivo piso en primera línea de Port Saplaya, conocido como la pequeña Venecia de Valencia. Esta propiedad de 120m² distribuidos en 3 habitaciones y 2 baños ofrece todo el confort y elegancia que buscas.</p>
+                        <p class="text-gray-700">La vivienda ha sido completamente reformada con materiales de alta calidad, destacando su cocina totalmente equipada con electrodomésticos de última generación, suelos de parquet en las habitaciones y porcelánico en zonas comunes. La terraza de 15m² con vistas directas al mar es el lugar perfecto para disfrutar de las puestas de sol.</p>
+                    </div>
+                    
+                    <div class="mb-8">
+                        <h3 class="text-xl font-semibold mb-4 text-blue-500">Características</h3>
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                            <div class="flex items-center">
+                                <i class="fas fa-check-circle text-green-500 mr-2"></i>
+                                <span class="text-gray-700">Aire acondicionado frío/calor</span>
+                            </div>
+                            <div class="flex items-center">
+                                <i class="fas fa-check-circle text-green-500 mr-2"></i>
+                                <span class="text-gray-700">Calefacción central</span>
+                            </div>
+                            <div class="flex items-center">
+                                <i class="fas fa-check-circle text-green-500 mr-2"></i>
+                                <span class="text-gray-700">Parking privado incluido</span>
+                            </div>
+                            <div class="flex items-center">
+                                <i class="fas fa-check-circle text-green-500 mr-2"></i>
+                                <span class="text-gray-700">Ascensor</span>
+                            </div>
+                            <div class="flex items-center">
+                                <i class="fas fa-check-circle text-green-500 mr-2"></i>
+                                <span class="text-gray-700">Armarios empotrados</span>
+                            </div>
+                            <div class="flex items-center">
+                                <i class="fas fa-check-circle text-green-500 mr-2"></i>
+                                <span class="text-gray-700">Trastero incluido</span>
+                            </div>
+                            <div class="flex items-center">
+                                <i class="fas fa-check-circle text-green-500 mr-2"></i>
+                                <span class="text-gray-700">WiFi de alta velocidad</span>
+                            </div>
+                            <div class="flex items-center">
+                                <i class="fas fa-check-circle text-green-500 mr-2"></i>
+                                <span class="text-gray-700">Televisión Smart TV</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div>
+                        <h3 class="text-xl font-semibold mb-4 text-blue-500">Distribución</h3>
+                        <div class="bg-gray-50 p-6 rounded-lg">
+                            <div class="flex justify-between mb-4 pb-2 border-b border-gray-200">
+                                <span class="font-medium">Entrada</span>
+                                <span>5 m²</span>
+                            </div>
+                            <div class="flex justify-between mb-4 pb-2 border-b border-gray-200">
+                                <span class="font-medium">Salón-comedor</span>
+                                <span>30 m²</span>
+                            </div>
+                            <div class="flex justify-between mb-4 pb-2 border-b border-gray-200">
+                                <span class="font-medium">Cocina</span>
+                                <span>12 m²</span>
+                            </div>
+                            <div class="flex justify-between mb-4 pb-2 border-b border-gray-200">
+                                <span class="font-medium">Dormitorio principal</span>
+                                <span>18 m²</span>
+                            </div>
+                            <div class="flex justify-between mb-4 pb-2 border-b border-gray-200">
+                                <span class="font-medium">Dormitorio secundario 1</span>
+                                <span>14 m²</span>
+                            </div>
+                            <div class="flex justify-between mb-4 pb-2 border-b border-gray-200">
+                                <span class="font-medium">Dormitorio secundario 2</span>
+                                <span>12 m²</span>
+                            </div>
+                            <div class="flex justify-between mb-4 pb-2 border-b border-gray-200">
+                                <span class="font-medium">Baño principal</span>
+                                <span>8 m²</span>
+                            </div>
+                            <div class="flex justify-between mb-4 pb-2 border-b border-gray-200">
+                                <span class="font-medium">Baño secundario</span>
+                                <span>5 m²</span>
+                            </div>
+                            <div class="flex justify-between mt-4 pt-2">
+                                <span class="font-medium">Terraza</span>
+                                <span>15 m²</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="lg:w-1/3">
+                    <div class="bg-blue-50 p-8 rounded-xl shadow-lg sticky top-24">
+                        <h3 class="text-2xl font-bold mb-6 text-center text-blue-600">Información de Alquiler</h3>
+                        
+                        <div class="mb-6">
+                            <div class="flex justify-between items-center mb-4">
+                                <span class="font-semibold text-gray-700">Precio mensual:</span>
+                                <span class="text-2xl font-bold text-blue-600">1.200 €</span>
+                            </div>
+                            <div class="flex justify-between items-center mb-4">
+                                <span class="font-semibold text-gray-700">Depósito:</span>
+                                <span class="text-lg font-medium text-gray-700">1.200 €</span>
+                            </div>
+                            <div class="flex justify-between items-center">
+                                <span class="font-semibold text-gray-700">Disponibilidad:</span>
+                                <span class="text-lg font-medium text-green-600">Inmediata</span>
+                            </div>
+                        </div>
+                        
+                        <div class="mb-6">
+                            <h4 class="font-semibold mb-3 text-gray-700">Gastos incluidos:</h4>
+                            <div class="flex flex-wrap gap-2">
+                                <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm">Comunidad</span>
+                                <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm">Agua</span>
+                                <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm">Basura</span>
+                            </div>
+                        </div>
+                        
+                        <div class="mb-6">
+                            <h4 class="font-semibold mb-3 text-gray-700">Gastos no incluidos:</h4>
+                            <div class="flex flex-wrap gap-2">
+                                <span class="bg-gray-200 text-gray-800 px-3 py-1 rounded-full text-sm">Luz</span>
+                                <span class="bg-gray-200 text-gray-800 px-3 py-1 rounded-full text-sm">Gas</span>
+                                <span class="bg-gray-200 text-gray-800 px-3 py-1 rounded-full text-sm">Internet</span>
+                            </div>
+                        </div>
+                        
+                        <div class="text-center mt-8">
+                            <a href="#contacto" class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-full font-semibold block transition transform hover:scale-105">
+                                <i class="fas fa-envelope mr-2"></i> Solicitar visita
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Amenities Section -->
+    <section class="py-16 bg-gray-50">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl font-bold text-center mb-12 text-gray-800">Comodidades y Servicios</h2>
+            
+            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-8">
+                <div class="text-center">
+                    <div class="amenity-icon bg-white p-5 rounded-full shadow-md inline-block mb-3">
+                        <i class="fas fa-swimming-pool text-3xl text-blue-500"></i>
+                    </div>
+                    <h3 class="font-semibold">Piscina comunitaria</h3>
+                </div>
+                
+                <div class="text-center">
+                    <div class="amenity-icon bg-white p-5 rounded-full shadow-md inline-block mb-3">
+                        <i class="fas fa-umbrella-beach text-3xl text-blue-500"></i>
+                    </div>
+                    <h3 class="font-semibold">Playa a 50m</h3>
+                </div>
+                
+                <div class="text-center">
+                    <div class="amenity-icon bg-white p-5 rounded-full shadow-md inline-block mb-3">
+                        <i class="fas fa-wifi text-3xl text-blue-500"></i>
+                    </div>
+                    <h3 class="font-semibold">WiFi fibra óptica</h3>
+                </div>
+                
+                <div class="text-center">
+                    <div class="amenity-icon bg-white p-5 rounded-full shadow-md inline-block mb-3">
+                        <i class="fas fa-car text-3xl text-blue-500"></i>
+                    </div>
+                    <h3 class="font-semibold">Parking privado</h3>
+                </div>
+                
+                <div class="text-center">
+                    <div class="amenity-icon bg-white p-5 rounded-full shadow-md inline-block mb-3">
+                        <i class="fas fa-store text-3xl text-blue-500"></i>
+                    </div>
+                    <h3 class="font-semibold">Supermercado cercano</h3>
+                </div>
+                
+                <div class="text-center">
+                    <div class="amenity-icon bg-white p-5 rounded-full shadow-md inline-block mb-3">
+                        <i class="fas fa-utensils text-3xl text-blue-500"></i>
+                    </div>
+                    <h3 class="font-semibold">Zona de restaurantes</h3>
+                </div>
+                
+                <div class="text-center">
+                    <div class="amenity-icon bg-white p-5 rounded-full shadow-md inline-block mb-3">
+                        <i class="fas fa-bus text-3xl text-blue-500"></i>
+                    </div>
+                    <h3 class="font-semibold">Parada de autobús</h3>
+                </div>
+                
+                <div class="text-center">
+                    <div class="amenity-icon bg-white p-5 rounded-full shadow-md inline-block mb-3">
+                        <i class="fas fa-bicycle text-3xl text-blue-500"></i>
+                    </div>
+                    <h3 class="font-semibold">Carril bici</h3>
+                </div>
+                
+                <div class="text-center">
+                    <div class="amenity-icon bg-white p-5 rounded-full shadow-md inline-block mb-3">
+                        <i class="fas fa-ship text-3xl text-blue-500"></i>
+                    </div>
+                    <h3 class="font-semibold">Puerto deportivo</h3>
+                </div>
+                
+                <div class="text-center">
+                    <div class="amenity-icon bg-white p-5 rounded-full shadow-md inline-block mb-3">
+                        <i class="fas fa-child text-3xl text-blue-500"></i>
+                    </div>
+                    <h3 class="font-semibold">Zona infantil</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Neighborhood Section -->
+    <section class="py-16 bg-white">
+        <div class="container mx-auto px-6">
+            <div class="flex flex-col lg:flex-row items-center gap-12">
+                <div class="lg:w-1/2">
+                    <h2 class="text-3xl font-bold mb-6 text-gray-800">Port Saplaya - La Pequeña Venecia</h2>
+                    <p class="text-gray-700 mb-4">Port Saplaya es un pintoresco barrio marinero al norte de Valencia, conocido por sus coloridas casas junto al canal que le han valido el apodo de "la pequeña Venecia". Esta zona residencial exclusiva ofrece un ambiente tranquilo y familiar, ideal para quienes buscan vivir cerca del mar sin renunciar a las comodidades de la ciudad.</p>
+                    <p class="text-gray-700 mb-6">El piso se encuentra en una zona privilegiada, a solo 50 metros de la playa de Port Saplaya y a 200 metros del puerto deportivo. La zona cuenta con todos los servicios necesarios: supermercados, farmacias, restaurantes con terraza junto al mar y conexión directa con Valencia mediante transporte público.</p>
+                    
+                    <div class="flex flex-wrap gap-4">
+                        <div class="flex items-center bg-blue-50 px-4 py-2 rounded-full">
+                            <i class="fas fa-walking text-blue-500 mr-2"></i>
+                            <span>5 min a la playa</span>
+                        </div>
+                        <div class="flex items-center bg-blue-50 px-4 py-2 rounded-full">
+                            <i class="fas fa-bus text-blue-500 mr-2"></i>
+                            <span>Parada a 100m</span>
+                        </div>
+                        <div class="flex items-center bg-blue-50 px-4 py-2 rounded-full">
+                            <i class="fas fa-shopping-basket text-blue-500 mr-2"></i>
+                            <span>Supermercado 200m</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="lg:w-1/2">
+                    <div class="rounded-xl overflow-hidden shadow-xl">
+                        <img src="https://thumbs.dreamstime.com/b/port-saplaya-valencia-spain-may-view-city-157650051.jpg" 
+                             alt="Vistas de Port Saplaya" class="w-full h-auto rounded-xl">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Location Map -->
+    <section id="ubicacion" class="py-16 bg-gray-50">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl font-bold text-center mb-12 text-gray-800">Ubicación Privilegiada</h2>
+            
+            <div class="bg-white p-6 rounded-xl shadow-lg">
+                <div id="map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2705.1334007496835!2d-0.32169170356548843!3d39.51064307633785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2ses!4v1745941897292!5m2!1ses!2ses" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <h3 class="text-xl font-semibold mb-4 flex items-center">
+                        <i class="fas fa-subway text-blue-500 mr-3"></i> Transporte Público
+                    </h3>
+                    <ul class="space-y-3">
+                        <li class="flex items-start">
+                            <i class="fas fa-bus text-blue-300 mt-1 mr-2"></i>
+                            <span>Línea 112 - Parada a 100m (conexión con Valencia centro)</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-subway text-blue-300 mt-1 mr-2"></i>
+                            <span>Metro línea 3 - Estación a 1.2km (Port Saplaya)</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-bicycle text-blue-300 mt-1 mr-2"></i>
+                            <span>Carril bici que conecta con Valencia y playas</span>
+                        </li>
+                    </ul>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <h3 class="text-xl font-semibold mb-4 flex items-center">
+                        <i class="fas fa-utensils text-blue-500 mr-3"></i> Restaurantes
+                    </h3>
+                    <ul class="space-y-3">
+                        <li class="flex items-start">
+                            <i class="fas fa-wine-glass-alt text-blue-300 mt-1 mr-2"></i>
+                            <span>Restaurante Marina - Cocina mediterránea (50m)</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-coffee text-blue-300 mt-1 mr-2"></i>
+                            <span>Cafetería La Barca - Desayunos con vistas (100m)</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-ice-cream text-blue-300 mt-1 mr-2"></i>
+                            <span>Heladería Venezia - Artesanal (150m)</span>
+                        </li>
+                    </ul>
+                </div>
+                
+                <div class="bg-white p-6 rounded-xl shadow-md">
+                    <h3 class="text-xl font-semibold mb-4 flex items-center">
+                        <i class="fas fa-shopping-bag text-blue-500 mr-3"></i> Comercios
+                    </h3>
+                    <ul class="space-y-3">
+                        <li class="flex items-start">
+                            <i class="fas fa-shopping-cart text-blue-300 mt-1 mr-2"></i>
+                            <span>Mercadona - Supermercado (200m)</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-pills text-blue-300 mt-1 mr-2"></i>
+                            <span>Farmacia Port Saplaya (150m)</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-tshirt text-blue-300 mt-1 mr-2"></i>
+                            <span>Tiendas de ropa y accesorios (100m)</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Form -->
+    <section id="contacto" class="py-16 bg-blue-600 text-white">
+        <div class="container mx-auto px-6">
+            <div class="max-w-4xl mx-auto">
+                <h2 class="text-3xl font-bold text-center mb-4">¿Interesado en el piso?</h2>
+                <p class="text-xl text-center mb-12">Contáctanos para concertar una visita o resolver tus dudas</p>
+                
+                <form id="contactForm" action="submit_contact.php" method="POST" class="grid grid-cols-1 md:grid-cols-2 gap-8 bg-white text-gray-800 p-8 rounded-xl shadow-2xl">
+                    <div class="md:col-span-2 text-center">
+                        <h3 class="text-2xl font-semibold mb-2 text-blue-600">Formulario de Contacto</h3>
+                        <p class="text-gray-600">Rellena este formulario y nos pondremos en contacto contigo en menos de 24 horas</p>
+                    </div>
+                    
+                    <div>
+                        <label for="name" class="block mb-2 font-medium">Nombre completo *</label>
+                        <input type="text" id="name" name="name" required 
+                               class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                    </div>
+                    
+                    <div>
+                        <label for="email" class="block mb-2 font-medium">Email *</label>
+                        <input type="email" id="email" name="email" required 
+                               class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                    </div>
+                    
+                    <div>
+                        <label for="phone" class="block mb-2 font-medium">Teléfono *</label>
+                        <input type="tel" id="phone" name="phone" required 
+                               class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                    </div>
+                    
+                    <div>
+                        <label for="date" class="block mb-2 font-medium">Fecha preferente de visita</label>
+                        <input type="date" id="date" name="date" 
+                               class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                    </div>
+                    
+                    <div class="md:col-span-2">
+                        <label for="message" class="block mb-2 font-medium">Mensaje</label>
+                        <textarea id="message" name="message" rows="4" 
+                                  class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500"></textarea>
+                    </div>
+                    
+                    <div class="md:col-span-2 flex items-center">
+                        <input type="checkbox" id="privacy" name="privacy" required 
+                               class="w-5 h-5 text-blue-600 rounded focus:ring-blue-500">
+                        <label for="privacy" class="ml-2 text-sm">Acepto la política de privacidad y el tratamiento de mis datos</label>
+                    </div>
+                    
+                    <div class="md:col-span-2 text-center">
+                        <button type="submit" class="bg-blue-600 hover:bg-blue-700 text-white px-10 py-4 rounded-full font-semibold text-lg transition transform hover:scale-105">
+                            Enviar solicitud <i class="fas fa-paper-plane ml-2"></i>
+                        </button>
+                    </div>
+                </form>
+                
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16 text-center">
+                    <div class="bg-blue-700 p-6 rounded-xl">
+                        <i class="fas fa-phone-alt text-3xl mb-4"></i>
+                        <h3 class="text-xl font-semibold mb-2">Teléfono</h3>
+                        <p>+34 123 456 789</p>
+                        <p class="text-blue-200">Lunes a Viernes 9:00-20:00</p>
+                    </div>
+                    
+                    <div class="bg-blue-700 p-6 rounded-xl">
+                        <i class="fas fa-envelope text-3xl mb-4"></i>
+                        <h3 class="text-xl font-semibold mb-2">Email</h3>
+                        <p>info@portsaplayaliving.com</p>
+                        <p class="text-blue-200">Respuesta en menos de 24h</p>
+                    </div>
+                    
+                    <div class="bg-blue-700 p-6 rounded-xl">
+                        <i class="fas fa-map-marker-alt text-3xl mb-4"></i>
+                        <h3 class="text-xl font-semibold mb-2">Oficina</h3>
+                        <p>Calle del Puerto, 12</p>
+                        <p class="text-blue-200">Port Saplaya, Valencia</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="container mx-auto px-6">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+                <div>
+                    <div class="flex items-center mb-4">
+                        <i class="fas fa-umbrella-beach text-blue-400 text-2xl mr-2"></i>
+                        <span class="text-xl font-bold">Port Saplaya Living</span>
+                    </div>
+                    <p class="text-gray-400">Especialistas en alquileres de calidad en la zona más exclusiva de Port Saplaya.</p>
+                    <div class="flex space-x-4 mt-6">
+                        <a href="#" class="text-gray-400 hover:text-white transition"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" class="text-gray-400 hover:text-white transition"><i class="fab fa-instagram"></i></a>
+                        <a href="#" class="text-gray-400 hover:text-white transition"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="text-gray-400 hover:text-white transition"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+                
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">Enlaces rápidos</h3>
+                    <ul class="space-y-2">
+                        <li><a href="#inicio" class="text-gray-400 hover:text-white transition">Inicio</a></li>
+                        <li><a href="#galeria" class="text-gray-400 hover:text-white transition">Galería</a></li>
+                        <li><a href="#detalles" class="text-gray-400 hover:text-white transition">Detalles</a></li>
+                        <li><a href="#ubicacion" class="text-gray-400 hover:text-white transition">Ubicación</a></li>
+                        <li><a href="#contacto" class="text-gray-400 hover:text-white transition">Contacto</a></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">Propiedades</h3>
+                    <ul class="space-y-2">
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Pisos en alquiler</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Viviendas con vistas al mar</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Propiedades premium</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Estudios</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Áticos</a></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">Legal</h3>
+                    <ul class="space-y-2">
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Política de privacidad</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Términos y condiciones</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Aviso legal</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Cookies</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="border-t border-gray-800 mt-12 pt-8 text-center text-gray-500">
+                <p>&copy; 2023 Port Saplaya Living. Todos los derechos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating WhatsApp Button -->
+    <div class="fixed bottom-6 right-6 z-50">
+        <a href="https://wa.me/34123456789" class="bg-green-500 hover:bg-green-600 text-white w-16 h-16 rounded-full flex items-center justify-center text-2xl shadow-xl transition transform hover:scale-110">
+            <i class="fab fa-whatsapp"></i>
+        </a>
+    </div>
+
+    <script src="./script.js"></script>
+
+    <!-- In a real implementation, you would include the Google Maps API -->
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAlnrp2zvRiFm8K-tqGXhqs7tfUnf0HMIA&callback=initMap" async defer></script> -->
+</body>
+</html>
