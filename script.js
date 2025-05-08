@@ -83,7 +83,7 @@ async function initializeApp() {
     
     const preferredLanguage = localStorage.getItem('preferredLanguage');
     const browserLanguage = navigator.language.split('-')[0];
-    const supportedLanguages = ['es', 'en'];
+    const supportedLanguages = ['es', 'en', 'fr', 'de', 'it'];
     
     let langToLoad = 'es'; // Default
     if (preferredLanguage && supportedLanguages.includes(preferredLanguage)) {

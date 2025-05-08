@@ -1,714 +1,1248 @@
 {
-  "pageTitle": {
-      "es": "Alquiler Piso Port Saplaya | Vistas al Mar | Valencia",
-      "en": "Apartment Rental Port Saplaya | Sea Views | Valencia"
-  },
-  "preloaderTitle": {
-      "es": "Port Saplaya Living",
-      "en": "Port Saplaya Living"
-  },
-  "headerBrand": {
-      "es": "Port Saplaya Living",
-      "en": "Port Saplaya Living"
-  },
-  "navInicio": {
-      "es": "Inicio",
-      "en": "Home"
-  },
-  "navApartamento": {
-      "es": "Apartamento",
-      "en": "Apartment"
-  },
-  "navUbicacion": {
-      "es": "Ubicación",
-      "en": "Location"
-  },
-  "navServicios": {
-      "es": "Servicios",
-      "en": "Amenities"
-  },
-  "navGaleria": {
-      "es": "Fotos",
-      "en": "Photos"
-  },
-  "navContacto": {
-      "es": "Contacto",
-      "en": "Contact"
-  },
-  "navAirbnb": {
-      "es": "Ver en Airbnb",
-      "en": "View on Airbnb"
-  },
-  "heroTitle": {
-      "es": "Piso en Port Saplaya con vistas al mar",
-      "en": "Port Saplaya apartment with sea views"
-  },
-  "heroSubtitle": {
-      "es": "Alquiler exclusivo en la \"Pequeña Venecia Española\"",
-      "en": "Exclusive rental in \"Little Venice of Spain\""
-  },
-  "heroRating": {
-      "es": "4.99",
-      "en": "4.99"
-  },
-  "heroLocation": {
-      "es": "Port Saplaya, Valencia",
-      "en": "Port Saplaya, Valencia"
-  },
-  "quickInfoGuests": {
-      "es": "4 huéspedes",
-      "en": "4 guests"
-  },
-  "quickInfoBedrooms": {
-      "es": "2 dormitorios",
-      "en": "2 bedrooms"
-  },
-  "quickInfoReformed": {
-      "es": "Totalmente reformado",
-      "en": "Fully renovated"
-  },
-  "quickInfoBathrooms": {
-      "es": "2 baños",
-      "en": "2 bathrooms"
-  },
-  "quickInfoArea": {
-      "es": "90 m²",
-      "en": "90 m²"
-  },
-  "apartmentSectionTitle": {
-      "es": "Moderno apartamento totalmente reformado en primera línea de playa",
-      "en": "Modern, fully renovated beachfront apartment"
-  },
-  "apartmentSectionDescription": {
-      "es": "Disfrute de unas vacaciones inolvidables en este exclusivo apartamento totalmente reformado, todo exterior, situado en Port Saplaya, conocido como la \"Pequeña Venecia Española\" por sus pintorescos canales y casas de colores. Un alojamiento de alto nivel con todas las comodidades para 4 personas. Se encuentra en primera línea de playa, a diez pasos de distancia.",
-      "en": "Enjoy an unforgettable vacation in this exclusive, fully renovated, all-exterior apartment located in Port Saplaya, known as \"Little Venice of Spain\" for its picturesque canals and colorful houses. A high-standard accommodation with all comforts for 4 people. It is located on the beachfront, ten steps away."
-  },
-  "recognitionsTitle": {
-      "es": "Reconocimientos",
-      "en": "Recognitions"
-  },
-  "recognitionTop1PercentTitle": {
-      "es": "Entre el 1% de los mejores Airbnb",
-      "en": "Top 1% of Airbnb listings"
-  },
-  "recognitionTop1PercentSubtitle": {
-      "es": "Favorito de los viajeros",
-      "en": "Traveler's favorite"
-  },
-  "recognitionSuperhostTitle": {
-      "es": "Superanfitrión",
-      "en": "Superhost"
-  },
-  "recognitionSuperhostSubtitle": {
-      "es": "5 años de experiencia",
-      "en": "5 years of experience"
-  },
-  "recognitionArrivalTitle": {
-      "es": "Proceso de llegada excepcional",
-      "en": "Exceptional arrival process"
-  },
-  "recognitionArrivalSubtitle": {
-      "es": "★★★★★ 5,0",
-      "en": "★★★★★ 5.0"
-  },
-  "recognitionOverallRatingTitle": {
-      "es": "Valoración general 4.99",
-      "en": "Overall rating 4.99"
-  },
-  "recognitionOverallRatingSubtitle": {
-      "es": "Basado en +100 evaluaciones",
-      "en": "Based on +100 reviews"
-  },
-  "recognitionCleanlinessTitle": {
-      "es": "Limpieza impecable",
-      "en": "Impeccable cleanliness"
-  },
-  "recognitionCleanlinessSubtitle": {
-      "es": "★★★★★ 5,0",
-      "en": "★★★★★ 5.0"
-  },
-  "recognitionAccuracyTitle": {
-      "es": "Veracidad: Descripción exacta",
-      "en": "Accuracy: Exact description"
-  },
-  "recognitionAccuracySubtitle": {
-      "es": "★★★★★ 5,0",
-      "en": "★★★★★ 5.0"
-  },
-  "recognitionCommunicationTitle": {
-      "es": "Comunicación fluida y rápida",
-      "en": "Smooth and fast communication"
-  },
-  "recognitionCommunicationSubtitle": {
-      "es": "★★★★★ 5,0",
-      "en": "★★★★★ 5.0"
-  },
-  "recognitionLocationTitle": {
-      "es": "Ubicación",
-      "en": "Location"
-  },
-  "recognitionLocationSubtitle": {
-      "es": "★★★★★ 4,9",
-      "en": "★★★★★ 4.9"
-  },
-  "recognitionQualityTitle": {
-      "es": "Calidad consistente",
-      "en": "Consistent quality"
-  },
-  "recognitionQualitySubtitle": {
-      "es": "★★★★★ 5,0",
-      "en": "★★★★★ 5.0"
-  },
-  "interiorSpacesTitle": {
-      "es": "Espacios interiores",
-      "en": "Interior Spaces"
-  },
-  "livingRoomTitle": {
-      "es": "Sala de estar",
-      "en": "Living Room"
-  },
-  "livingRoomDescription": {
-      "es": "Acogedora. Equipada con un grande TV SMART de 65\" con Netflix, Rakuten (Google por voz), etc. Incluye un sofá de cuero y un columpio relajante.",
-      "en": "Cozy. Equipped with a large 65\" SMART TV with Netflix, Rakuten (Google voice), etc. Includes a leather sofa and a relaxing swing chair."
-  },
-  "diningRoomTitle": {
-      "es": "Comedor",
-      "en": "Dining Room"
-  },
-  "diningRoomDescription": {
-      "es": "Área integrada con la sala de estar, con una mesa grande abatible en la terraza adyacente. Ambiente elegante y luminoso.",
-      "en": "Area integrated with the living room, with a large folding table on the adjacent terrace. Elegant and bright atmosphere."
-  },
-  "bedrooms2Title": {
-      "es": "2 Dormitorios",
-      "en": "2 Bedrooms"
-  },
-  "bedrooms2Description": {
-      "es": "Cada habitación tiene una cama doble (1.40 cm). Cada habitación es exterior con terraza y vistas al mar. Cada habitación cuenta con TV SMART con mando por voz y WiFi incorporado.",
-      "en": "Each room has a double bed (1.40 cm). Each room is exterior with a terrace and sea views. Each room has a SMART TV with voice control and built-in WiFi."
-  },
-  "kitchenTitle": {
-      "es": "Cocina",
-      "en": "Kitchen"
-  },
-  "kitchenDescription": {
-      "es": "Totalmente equipada con nevera americana, lavavajillas Bosch, vitrocerámica y todos los electrodomésticos necesarios.",
-      "en": "Fully equipped with an American fridge, Bosch dishwasher, ceramic hob, and all necessary appliances."
-  },
-  "bathrooms2Title": {
-      "es": "2 Baños",
-      "en": "2 Bathrooms"
-  },
-  "bathrooms2Description": {
-      "es": "Baños completos. Equipados con bidé, bañera, secador de pelo, productos de limpieza, champú, gel de ducha. Agua caliente disponible.",
-      "en": "Full bathrooms. Equipped with bidet, bathtub, hairdryer, cleaning products, shampoo, shower gel. Hot water available."
-  },
-  "exteriorSpacesTitle": {
-      "es": "Espacios exteriores",
-      "en": "Exterior Spaces"
-  },
-  "terraceTitle": {
-      "es": "Terraza",
-      "en": "Terrace"
-  },
-  "terraceDescription": {
-      "es": "Amplia y fabulosa. Equipada con una mesa grande abatible y 4 sillas de madera cómodas. Funciona como patio privado o balcón. Dispone de mobiliario exterior y zona de comedor al aire libre.",
-      "en": "Spacious and fabulous. Equipped with a large folding table and 4 comfortable wooden chairs. Functions as a private patio or balcony. Features outdoor furniture and an outdoor dining area."
-  },
-  "panoramicViewsTitle": {
-      "es": "Vistas panorámicas",
-      "en": "Panoramic Views"
-  },
-  "viewSea": {
-      "es": "Vistas directas al mar y amanecer",
-      "en": "Direct sea and sunrise views"
-  },
-  "viewBoats": {
-      "es": "Club Náutico (Dársena), barcos y yates",
-      "en": "Yacht Club (Dock), boats and yachts"
-  },
-  "viewPool": {
-      "es": "Vistas a la piscina",
-      "en": "Pool views"
-  },
-  "viewBeach": {
-      "es": "Vistas a la playa",
-      "en": "Beach views"
-  },
-  "viewGarden": {
-      "es": "Vistas al jardín",
-      "en": "Garden views"
-  },
-  "viewChannel": {
-      "es": "Vistas al canal",
-      "en": "Canal views"
-  },
-  "viewPort": {
-      "es": "Vistas al puerto",
-      "en": "Port views"
-  },
-  "proximityTitle": {
-      "es": "Proximidad",
-      "en": "Proximity"
-  },
-  "proximityBeach": {
-      "es": "Primera línea de playa, a diez pasos",
-      "en": "Beachfront, ten steps away"
-  },
-  "gallerySectionTitle": {
-      "es": "Galería de fotos",
-      "en": "Photo Gallery"
-  },
-  "galleryAltTerraza1": {
-      "es": "Vista exterior de Port Saplaya",
-      "en": "Exterior view of Port Saplaya"
-  },
-  "galleryAltSalon1": {
-      "es": "Sala de estar",
-      "en": "Living room"
-  },
-  "galleryAltCocina1": {
-      "es": "Cocina moderna",
-      "en": "Modern kitchen"
-  },
-  "galleryAltDormitorio1": {
-      "es": "Dormitorio principal",
-      "en": "Main bedroom"
-  },
-  "galleryAltComedor1": {
-      "es": "Comedor",
-      "en": "Dining room"
-  },
-  "galleryAltBano1": {
-      "es": "Baño de lujo",
-      "en": "Luxury bathroom"
-  },
-  "galleryViewMoreButton": {
-      "es": "Ver más fotos en",
-      "en": "See more photos on"
-  },
-  "neighborhoodSectionTitle": {
-      "es": "Port Saplaya - La Pequeña Venecia",
-      "en": "Port Saplaya - Little Venice"
-  },
-  "neighborhoodDescription1": {
-      "es": "Port Saplaya es un pintoresco barrio marinero al norte de Valencia, conocido por sus coloridas casas junto al canal que le han valido el apodo de \"la pequeña Venecia\". Esta zona residencial exclusiva ofrece un ambiente tranquilo y familiar, ideal para quienes buscan vivir cerca del mar sin renunciar a las comodidades de la ciudad.",
-      "en": "Port Saplaya is a picturesque seaside neighborhood north of Valencia, known for its colorful canal-side houses that have earned it the nickname \"Little Venice.\" This exclusive residential area offers a quiet and family-friendly atmosphere, ideal for those looking to live near the sea without giving up city conveniences."
-  },
-  "neighborhoodDescription2": {
-      "es": "El piso se encuentra en una zona privilegiada, a solo 50 metros de la playa de Port Saplaya y a 200 metros del puerto deportivo. La zona cuenta con todos los servicios necesarios: supermercados, farmacias, restaurantes con terraza junto al mar y conexión directa con Valencia mediante transporte público.",
-      "en": "The apartment is located in a privileged area, just 50 meters from Port Saplaya beach and 200 meters from the marina. The area has all necessary services: supermarkets, pharmacies, restaurants with seaside terraces, and direct connection to Valencia via public transport."
-  },
-  "neighborhoodAltView": {
-      "es": "Vistas de Port Saplaya",
-      "en": "Views of Port Saplaya"
-  },
-  "featureBeachAccess": {
-      "es": "5 min a la playa",
-      "en": "5 min to the beach"
-  },
-  "featureBusStop": {
-      "es": "Parada a 100m",
-      "en": "Bus stop 100m"
-  },
-  "featureSupermarket": {
-      "es": "Supermercado 200m",
-      "en": "Supermarket 200m"
-  },
-  "locationSectionTitle": {
-      "es": "Ubicación privilegiada",
-      "en": "Privileged Location"
-  },
-  "locationPortSaplayaTitle": {
-      "es": "Port Saplaya, Alboraya",
-      "en": "Port Saplaya, Alboraya"
-  },
-  "locationPortSaplayaDescription": {
-      "es": "Conocido como \"Pequeña Venecia Española\" por sus encantadores canales y casas coloridas, Port Saplaya es una zona turística residencial de alto nivel en la costa de la Comunidad Valenciana.",
-      "en": "Known as \"Little Venice of Spain\" for its charming canals and colorful houses, Port Saplaya is a high-end residential tourist area on the coast of the Valencian Community."
-  },
-  "nearbyServicesTitle": {
-      "es": "Servicios cercanos:",
-      "en": "Nearby Services:"
-  },
-  "serviceRestaurants": {
-      "es": "Restaurantes",
-      "en": "Restaurants"
-  },
-  "serviceCafes": {
-      "es": "Cafeterías",
-      "en": "Cafes"
-  },
-  "serviceSupermarkets": {
-      "es": "Supermercados",
-      "en": "Supermarkets"
-  },
-  "serviceGreengrocers": {
-      "es": "Fruterías",
-      "en": "Greengrocers"
-  },
-  "servicePharmacy": {
-      "es": "Farmacia",
-      "en": "Pharmacy"
-  },
-  "serviceKebab": {
-      "es": "Kebab",
-      "en": "Kebab"
-  },
-  "servicePub": {
-      "es": "Pub",
-      "en": "Pub"
-  },
-  "serviceShoppingCenter": {
-      "es": "Centro comercial",
-      "en": "Shopping Center"
-  },
-  "shoppingCenterInfo": {
-      "es": "El centro comercial incluye: Auchan, Burger King, KFC, Leroy Merlin.",
-      "en": "The shopping center includes: Auchan, Burger King, KFC, Leroy Merlin."
-  },
-  "communicationTitle": {
-      "es": "Comunicación",
-      "en": "Connectivity"
-  },
-  "communicationDescription": {
-      "es": "Excelente conexión con el centro de Valencia:",
-      "en": "Excellent connection to Valencia city center:"
-  },
-  "transportTaxi": {
-      "es": "5 minutos en taxi",
-      "en": "5 minutes by taxi"
-  },
-  "transportBus": {
-      "es": "5 minutos en autobús",
-      "en": "5 minutes by bus"
-  },
-  "amenitiesSectionTitle": {
-      "es": "Servicios y comodidades",
-      "en": "Services and Amenities"
-  },
-  "amenityClimateControlTitle": {
-      "es": "Climatización",
-      "en": "Climate Control"
-  },
-  "amenityClimateControlDesc": {
-      "es": "Aire acondicionado por conducto centralizado con recirculación de aire (enfría y calienta todo el apartamento). Calefacción central.",
-      "en": "Centralized ducted air conditioning with air recirculation (cools and heats the entire apartment). Central heating."
-  },
-  "amenityEquippedKitchenTitle": {
-      "es": "Cocina equipada",
-      "en": "Equipped Kitchen"
-  },
-  "amenityEquippedKitchenDesc": {
-      "es": "Nevera americana side-by-side, Lavavajillas Bosch, Lavadora AEG, Microondas, Vitrocerámica, Cafetera, Tostadora, Batidora, Hervidor de agua.",
-      "en": "American side-by-side fridge, Bosch dishwasher, AEG washing machine, Microwave, Ceramic hob, Coffee maker, Toaster, Blender, Kettle."
-  },
-  "amenityEntertainmentTitle": {
-      "es": "Entretenimiento",
-      "en": "Entertainment"
-  },
-  "amenityEntertainmentDesc": {
-      "es": "TV 65\" con plataformas (Netflix, Disney+, HBO Max), Sistema de sonido Bosse con bluetooth, Videoconsola.",
-      "en": "65\" TV with platforms (Netflix, Disney+, HBO Max), Bosse sound system with Bluetooth, Video game console."
-  },
-  "amenityInternetTitle": {
-      "es": "Internet",
-      "en": "Internet"
-  },
-  "amenityInternetDesc": {
-      "es": "WiFi rápido (206 Mbps), Zona para trabajar, Conexión Ethernet.",
-      "en": "Fast WiFi (206 Mbps), Workspace, Ethernet connection."
-  },
-  "amenityBathroomsTitle": {
-      "es": "Baños",
-      "en": "Bathrooms"
-  },
-  "amenityBathroomsDesc": {
-      "es": "2 baños completos con bidé, bañera, ducha exterior, agua caliente y secador de pelo.",
-      "en": "2 full bathrooms with bidet, bathtub, outdoor shower, hot water, and hairdryer."
-  },
-  "amenityLaundryTitle": {
-      "es": "Lavandería",
-      "en": "Laundry"
-  },
-  "amenityLaundryDesc": {
-      "es": "Lavadora y secadora en el alojamiento (gratis), plancha, tendedero.",
-      "en": "Washer and dryer in unit (free), iron, drying rack."
-  },
-  "amenityBedLinenTitle": {
-      "es": "Ropa de cama",
-      "en": "Bed Linen"
-  },
-  "amenityBedLinenDesc": {
-      "es": "Marcas Versace, Pierre Cardin, Canal, Burberry. Toallas, sábanas, almohadas y mantas adicionales.",
-      "en": "Brands Versace, Pierre Cardin, Canal, Burberry. Towels, sheets, extra pillows and blankets."
-  },
-  "amenityTerraceTitle": {
-      "es": "Terraza",
-      "en": "Terrace"
-  },
-  "amenityTerraceDesc": {
-      "es": "Amplia con mesa grande abatible y 4 sillas de madera cómodas. Mobiliario exterior y comedor al aire libre.",
-      "en": "Spacious with a large folding table and 4 comfortable wooden chairs. Outdoor furniture and outdoor dining area."
-  },
-  "amenityBBQTitle": {
-      "es": "Barbacoa",
-      "en": "Barbecue"
-  },
-  "amenityBBQDesc": {
-      "es": "De gas. Se incluyen utensilios de barbacoa (parrilla, carbón, brochetas de bambú/hierro).",
-      "en": "Gas. Barbecue utensils included (grill, charcoal, bamboo/iron skewers)."
-  },
-  "amenityPoolTitle": {
-      "es": "Piscina",
-      "en": "Pool"
-  },
-  "amenityPoolDesc": {
-      "es": "Descubierta compartida (20 jun-20 sep, 11:00-20:30). Piscina para nadar.",
-      "en": "Shared outdoor (June 20-Sep 20, 11:00-20:30). Swimming pool."
-  },
-  "amenityBeachItemsTitle": {
-      "es": "Elementos de playa",
-      "en": "Beach Essentials"
-  },
-  "amenityBeachItemsDesc": {
-      "es": "Se proporcionan toallas de playa, sombrilla, esterilla y equipo de snorkel. Hay tumbonas disponibles.",
-      "en": "Beach towels, umbrella, mat, and snorkeling gear provided. Sun loungers available."
-  },
-  "amenityParkingTitle": {
-      "es": "Aparcamiento",
-      "en": "Parking"
-  },
-  "amenityParkingDesc": {
-      "es": "1 plaza privada subterránea gratuita (altura máx. 1.80m). Aparcamiento gratuito en calle.",
-      "en": "1 free private underground parking space (max height 1.80m). Free street parking."
-  },
-  "amenityElevatorTitle": {
-      "es": "Ascensor",
-      "en": "Elevator"
-  },
-  "amenityElevatorDesc": {
-      "es": "En el edificio con dimensiones accesibles.",
-      "en": "In the building with accessible dimensions."
-  },
-  "safetyHomeTitle": {
-      "es": "Seguridad en el hogar",
-      "en": "Home Safety"
-  },
-  "safetyFireExtinguisher": {
-      "es": "Extintor de incendios",
-      "en": "Fire extinguisher"
-  },
-  "safetyWindowGuards": {
-      "es": "Seguros para ventanas",
-      "en": "Window guards"
-  },
-  "safetyOutletCovers": {
-      "es": "Protectores de enchufes",
-      "en": "Outlet covers"
-  },
-  "suitabilityRestrictionsTitle": {
-      "es": "Adecuación y restricciones",
-      "en": "Suitability and Restrictions"
-  },
-  "restrictionChildren": {
-      "es": "No apto para niños menores de 8 años",
-      "en": "Not suitable for children under 8 years old"
-  },
-  "restrictionPets": {
-      "es": "No se aceptan animales de compañía",
-      "en": "No pets allowed"
-  },
-  "restrictionGuests": {
-      "es": "No apto para más de 4 personas",
-      "en": "Not suitable for more than 4 people"
-  },
-  "houseRulesTitle": {
-      "es": "Normas de la casa",
-      "en": "House Rules"
-  },
-  "ruleQuietHours": {
-      "es": "No hacer ruido excesivo de 22:00 a 10:00",
-      "en": "No excessive noise from 10:00 PM to 10:00 AM"
-  },
-  "ruleParties": {
-      "es": "No fiestas/reuniones que alteren el orden",
-      "en": "No parties/gatherings that disturb the peace"
-  },
-  "ruleSmoking": {
-      "es": "Prohibido fumar dentro (solo en terraza)",
-      "en": "No smoking inside (only on terrace)"
-  },
-  "ruleDrugs": {
-      "es": "No consumo/venta de drogas",
-      "en": "No drug use/sale"
-  },
-  "ruleFlammables": {
-      "es": "Prohibido velas o elementos inflamables",
-      "en": "No candles or flammable items"
-  },
-  "ruleDecorations": {
-      "es": "No mover elementos decorativos",
-      "en": "Do not move decorative items"
-  },
-  "ruleRestHours": {
-      "es": "Respetar horario de descanso",
-      "en": "Respect quiet hours"
-  },
-  "contactSectionTitle": {
-      "es": "¿Interesado en el piso?",
-      "en": "Interested in the apartment?"
-  },
-  "contactSectionSubtitle": {
-      "es": "Contáctanos para concertar una visita o resolver tus dudas",
-      "en": "Contact us to arrange a visit or resolve your doubts"
-  },
-  "contactFormTitle": {
-      "es": "Formulario de Contacto",
-      "en": "Contact Form"
-  },
-  "contactFormSubtitle": {
-      "es": "Rellena este formulario y nos pondremos en contacto contigo en menos de 24 horas",
-      "en": "Fill out this form and we will contact you within 24 hours"
-  },
-  "formLabelName": {
-      "es": "Nombre completo *",
-      "en": "Full name *"
-  },
-  "formLabelEmail": {
-      "es": "Email *",
-      "en": "Email *"
-  },
-  "formLabelPhone": {
-      "es": "Teléfono *",
-      "en": "Phone *"
-  },
-  "formLabelDate": {
-      "es": "Fecha preferente de visita",
-      "en": "Preferred visit date"
-  },
-  "formLabelMessage": {
-      "es": "Mensaje",
-      "en": "Message"
-  },
-  "formLabelPrivacy": {
-      "es": "Acepto la política de privacidad y el tratamiento de mis datos",
-      "en": "I accept the privacy policy and the processing of my data"
-  },
-  "formSubmitButton": {
-      "es": "Enviar solicitud",
-      "en": "Send request"
-  },
-  "formSubmitSuccess": {
-      "es": "¡Gracias por tu mensaje! Nos pondremos en contacto contigo lo antes posible.",
-      "en": "Thank you for your message! We will contact you as soon as possible."
-  },
-  "contactInfoPhoneTitle": {
-      "es": "Teléfono",
-      "en": "Phone"
-  },
-  "contactInfoPhoneHours": {
-      "es": "Lunes a Viernes 9:00-20:00",
-      "en": "Monday to Friday 9:00 AM - 8:00 PM"
-  },
-  "contactInfoEmailTitle": {
-      "es": "Email",
-      "en": "Email"
-  },
-  "contactInfoEmailResponse": {
-      "es": "Respuesta en menos de 24h",
-      "en": "Response in less than 24h"
-  },
-  "contactInfoOfficeTitle": {
-      "es": "Oficina",
-      "en": "Office"
-  },
-  "contactInfoOfficeLocation": {
-      "es": "Port Saplaya, Valencia",
-      "en": "Port Saplaya, Valencia"
-  },
-  "footerBrandName": {
-      "es": "Port Saplaya Living",
-      "en": "Port Saplaya Living"
-  },
-  "footerDescription": {
-      "es": "Especialistas en alquileres de calidad en la zona más exclusiva de Port Saplaya.",
-      "en": "Specialists in quality rentals in the most exclusive area of Port Saplaya."
-  },
-  "footerQuickLinksTitle": {
-      "es": "Enlaces rápidos",
-      "en": "Quick Links"
-  },
-  "footerLinkInicio": {
-      "es": "Inicio",
-      "en": "Home"
-  },
-  "footerLinkGaleria": {
-      "es": "Galería",
-      "en": "Gallery"
-  },
-  "footerLinkDetalles": {
-      "es": "Detalles",
-      "en": "Details"
-  },
-  "footerLinkUbicacion": {
-      "es": "Ubicación",
-      "en": "Location"
-  },
-  "footerLinkContacto": {
-      "es": "Contacto",
-      "en": "Contact"
-  },
-  "footerPropertiesTitle": {
-      "es": "Propiedades",
-      "en": "Properties"
-  },
-  "footerPropLinkApartments": {
-      "es": "Pisos en alquiler",
-      "en": "Apartments for rent"
-  },
-  "footerPropLinkSeaView": {
-      "es": "Viviendas con vistas al mar",
-      "en": "Properties with sea views"
-  },
-  "footerPropLinkPremium": {
-      "es": "Propiedades premium",
-      "en": "Premium properties"
-  },
-  "footerPropLinkStudios": {
-      "es": "Estudios",
-      "en": "Studios"
-  },
-  "footerPropLinkPenthouses": {
-      "es": "Áticos",
-      "en": "Penthouses"
-  },
-  "footerLegalTitle": {
-      "es": "Legal",
-      "en": "Legal"
-  },
-  "footerLegalPrivacy": {
-      "es": "Política de privacidad",
-      "en": "Privacy Policy"
-  },
-  "footerLegalTerms": {
-      "es": "Términos y condiciones",
-      "en": "Terms and Conditions"
-  },
-  "footerLegalNotice": {
-      "es": "Aviso legal",
-      "en": "Legal Notice"
-  },
-  "footerLegalCookies": {
-      "es": "Cookies",
-      "en": "Cookies"
-  },
-  "footerCopyright": {
-      "es": "© 2025 Port Saplaya Living. Todos los derechos reservados.",
-      "en": "© 2025 Port Saplaya Living. All rights reserved."
-  },
-  "whatsappButton": {
-      "es": "Contactar por WhatsApp",
-      "en": "Contact via WhatsApp"
+    "pageTitle": {
+        "es": "Alquiler Piso Port Saplaya | Vistas al Mar | Valencia",
+        "en": "Apartment Rental Port Saplaya | Sea Views | Valencia",
+        "fr": "Location Appartement Port Saplaya | Vues sur Mer | Valence",
+        "de": "Wohnung mieten Port Saplaya | Meerblick | Valencia",
+        "it": "Affitto Appartamento Port Saplaya | Vista Mare | Valencia"
+    },
+    "preloaderTitle": {
+        "es": "Port Saplaya Living",
+        "en": "Port Saplaya Living",
+        "fr": "Port Saplaya Living",
+        "de": "Port Saplaya Living",
+        "it": "Port Saplaya Living"
+    },
+    "headerBrand": {
+        "es": "Port Saplaya Living",
+        "en": "Port Saplaya Living",
+        "fr": "Port Saplaya Living",
+        "de": "Port Saplaya Living",
+        "it": "Port Saplaya Living"
+    },
+    "navInicio": {
+        "es": "Inicio",
+        "en": "Home",
+        "fr": "Accueil",
+        "de": "Startseite",
+        "it": "Inizio"
+    },
+    "navApartamento": {
+        "es": "Apartamento",
+        "en": "Apartment",
+        "fr": "Appartement",
+        "de": "Wohnung",
+        "it": "Appartamento"
+    },
+    "navUbicacion": {
+        "es": "Ubicación",
+        "en": "Location",
+        "fr": "Emplacement",
+        "de": "Lage",
+        "it": "Posizione"
+    },
+    "navServicios": {
+        "es": "Servicios",
+        "en": "Amenities",
+        "fr": "Équipements",
+        "de": "Ausstattung",
+        "it": "Servizi"
+    },
+    "navGaleria": {
+        "es": "Fotos",
+        "en": "Photos",
+        "fr": "Photos",
+        "de": "Fotos",
+        "it": "Foto"
+    },
+    "navContacto": {
+        "es": "Contacto",
+        "en": "Contact",
+        "fr": "Contact",
+        "de": "Kontakt",
+        "it": "Contatti"
+    },
+    "navAirbnb": {
+        "es": "Ver en Airbnb",
+        "en": "View on Airbnb",
+        "fr": "Voir sur Airbnb",
+        "de": "Auf Airbnb ansehen",
+        "it": "Vedi su Airbnb"
+    },
+    "heroTitle": {
+        "es": "Piso en Port Saplaya con vistas al mar",
+        "en": "Port Saplaya apartment with sea views",
+        "fr": "Appartement à Port Saplaya avec vue sur mer",
+        "de": "Wohnung in Port Saplaya mit Meerblick",
+        "it": "Appartamento a Port Saplaya con vista mare"
+    },
+    "heroSubtitle": {
+        "es": "Alquiler exclusivo en la \"Pequeña Venecia Española\"",
+        "en": "Exclusive rental in \"Little Venice of Spain\"",
+        "fr": "Location exclusive dans la \"Petite Venise Espagnole\"",
+        "de": "Exklusive Vermietung im \"Kleinen Venedig Spaniens\"",
+        "it": "Affitto esclusivo nella \"Piccola Venezia Spagnola\""
+    },
+    "heroRating": {
+        "es": "4.99",
+        "en": "4.99",
+        "fr": "4.99",
+        "de": "4.99",
+        "it": "4.99"
+    },
+    "heroLocation": {
+        "es": "Port Saplaya, Valencia",
+        "en": "Port Saplaya, Valencia",
+        "fr": "Port Saplaya, Valence",
+        "de": "Port Saplaya, Valencia",
+        "it": "Port Saplaya, Valencia"
+    },
+    "quickInfoGuests": {
+        "es": "4 huéspedes",
+        "en": "4 guests",
+        "fr": "4 personnes",
+        "de": "4 Gäste",
+        "it": "4 ospiti"
+    },
+    "quickInfoBedrooms": {
+        "es": "2 dormitorios",
+        "en": "2 bedrooms",
+        "fr": "2 chambres",
+        "de": "2 Schlafzimmer",
+        "it": "2 camere da letto"
+    },
+    "quickInfoReformed": {
+        "es": "Totalmente reformado",
+        "en": "Fully renovated",
+        "fr": "Entièrement rénové",
+        "de": "Komplett renoviert",
+        "it": "Completamente ristrutturato"
+    },
+    "quickInfoBathrooms": {
+        "es": "2 baños",
+        "en": "2 bathrooms",
+        "fr": "2 salles de bain",
+        "de": "2 Badezimmer",
+        "it": "2 bagni"
+    },
+    "quickInfoArea": {
+        "es": "90 m²",
+        "en": "90 m²",
+        "fr": "90 m²",
+        "de": "90 m²",
+        "it": "90 m²"
+    },
+    "apartmentSectionTitle": {
+        "es": "Moderno apartamento totalmente reformado en primera línea de playa",
+        "en": "Modern, fully renovated beachfront apartment",
+        "fr": "Appartement moderne entièrement rénové en front de mer",
+        "de": "Modernes, komplett renoviertes Apartment in erster Strandreihe",
+        "it": "Moderno appartamento completamente ristrutturato in prima linea sulla spiaggia"
+    },
+    "apartmentSectionDescription": {
+        "es": "Disfrute de unas vacaciones inolvidables en este exclusivo apartamento totalmente reformado, todo exterior, situado en Port Saplaya, conocido como la \"Pequeña Venecia Española\" por sus pintorescos canales y casas de colores. Un alojamiento de alto nivel con todas las comodidades para 4 personas. Se encuentra en primera línea de playa, a diez pasos de distancia.",
+        "en": "Enjoy an unforgettable vacation in this exclusive, fully renovated, all-exterior apartment located in Port Saplaya, known as \"Little Venice of Spain\" for its picturesque canals and colorful houses. A high-standard accommodation with all comforts for 4 people. It is located on the beachfront, ten steps away.",
+        "fr": "Profitez de vacances inoubliables dans cet appartement exclusif entièrement rénové, tout extérieur, situé à Port Saplaya, connu comme la \"Petite Venise Espagnole\" pour ses canaux pittoresques et ses maisons colorées. Un hébergement de haut standing avec tout le confort pour 4 personnes. Il est situé en front de mer, à dix pas.",
+        "de": "Genießen Sie einen unvergesslichen Urlaub in diesem exklusiven, komplett renovierten Apartment, das sich komplett im Freien befindet und in Port Saplaya liegt, bekannt als das \"Kleine Venedig Spaniens\" wegen seiner malerischen Kanäle und bunten Häuser. Eine Unterkunft auf hohem Niveau mit allem Komfort für 4 Personen. Sie befindet sich in erster Strandreihe, nur zehn Schritte entfernt.",
+        "it": "Godetevi una vacanza indimenticabile in questo esclusivo appartamento completamente ristrutturato, tutto esterno, situato a Port Saplaya, conosciuta come la \"Piccola Venezia Spagnola\" per i suoi pittoreschi canali e le case colorate. Un alloggio di alto livello con tutti i comfort per 4 persone. Si trova in prima linea sulla spiaggia, a dieci passi di distanza."
+    },
+    "recognitionsTitle": {
+        "es": "Reconocimientos",
+        "en": "Recognitions",
+        "fr": "Reconnaissances",
+        "de": "Auszeichnungen",
+        "it": "Riconoscimenti"
+    },
+    "recognitionTop1PercentTitle": {
+        "es": "Entre el 1% de los mejores Airbnb",
+        "en": "Top 1% of Airbnb listings",
+        "fr": "Parmi le 1% des meilleurs Airbnb",
+        "de": "Unter den Top 1% der besten Airbnb-Unterkünfte",
+        "it": "Tra l'1% dei migliori Airbnb"
+    },
+    "recognitionTop1PercentSubtitle": {
+        "es": "Favorito de los viajeros",
+        "en": "Traveler's favorite",
+        "fr": "Préféré des voyageurs",
+        "de": "Liebling der Reisenden",
+        "it": "Preferito dai viaggiatori"
+    },
+    "recognitionSuperhostTitle": {
+        "es": "Superanfitrión",
+        "en": "Superhost",
+        "fr": "Superhôte",
+        "de": "Superhost",
+        "it": "Superhost"
+    },
+    "recognitionSuperhostSubtitle": {
+        "es": "5 años de experiencia",
+        "en": "5 years of experience",
+        "fr": "5 ans d'expérience",
+        "de": "5 Jahre Erfahrung",
+        "it": "5 anni di esperienza"
+    },
+    "recognitionArrivalTitle": {
+        "es": "Proceso de llegada excepcional",
+        "en": "Exceptional arrival process",
+        "fr": "Processus d'arrivée exceptionnel",
+        "de": "Außergewöhnlicher Check-in-Prozess",
+        "it": "Processo di arrivo eccezionale"
+    },
+    "recognitionArrivalSubtitle": {
+        "es": "★★★★★ 5,0",
+        "en": "★★★★★ 5.0",
+        "fr": "★★★★★ 5,0",
+        "de": "★★★★★ 5,0",
+        "it": "★★★★★ 5,0"
+    },
+    "recognitionOverallRatingTitle": {
+        "es": "Valoración general 4.99",
+        "en": "Overall rating 4.99",
+        "fr": "Note globale 4.99",
+        "de": "Gesamtbewertung 4.99",
+        "it": "Valutazione generale 4.99"
+    },
+    "recognitionOverallRatingSubtitle": {
+        "es": "Basado en +100 evaluaciones",
+        "en": "Based on +100 reviews",
+        "fr": "Basé sur +100 évaluations",
+        "de": "Basierend auf über 100 Bewertungen",
+        "it": "Basato su +100 recensioni"
+    },
+    "recognitionCleanlinessTitle": {
+        "es": "Limpieza impecable",
+        "en": "Impeccable cleanliness",
+        "fr": "Propreté impeccable",
+        "de": "Makellose Sauberkeit",
+        "it": "Pulizia impeccabile"
+    },
+    "recognitionCleanlinessSubtitle": {
+        "es": "★★★★★ 5,0",
+        "en": "★★★★★ 5.0",
+        "fr": "★★★★★ 5,0",
+        "de": "★★★★★ 5,0",
+        "it": "★★★★★ 5,0"
+    },
+    "recognitionAccuracyTitle": {
+        "es": "Veracidad: Descripción exacta",
+        "en": "Accuracy: Exact description",
+        "fr": "Exactitude : Description précise",
+        "de": "Genauigkeit: Exakte Beschreibung",
+        "it": "Veridicità: Descrizione esatta"
+    },
+    "recognitionAccuracySubtitle": {
+        "es": "★★★★★ 5,0",
+        "en": "★★★★★ 5.0",
+        "fr": "★★★★★ 5,0",
+        "de": "★★★★★ 5,0",
+        "it": "★★★★★ 5,0"
+    },
+    "recognitionCommunicationTitle": {
+        "es": "Comunicación fluida y rápida",
+        "en": "Smooth and fast communication",
+        "fr": "Communication fluide et rapide",
+        "de": "Reibungslose und schnelle Kommunikation",
+        "it": "Comunicazione fluida e veloce"
+    },
+    "recognitionCommunicationSubtitle": {
+        "es": "★★★★★ 5,0",
+        "en": "★★★★★ 5.0",
+        "fr": "★★★★★ 5,0",
+        "de": "★★★★★ 5,0",
+        "it": "★★★★★ 5,0"
+    },
+    "recognitionLocationTitle": {
+        "es": "Ubicación",
+        "en": "Location",
+        "fr": "Emplacement",
+        "de": "Lage",
+        "it": "Posizione"
+    },
+    "recognitionLocationSubtitle": {
+        "es": "★★★★★ 4,9",
+        "en": "★★★★★ 4.9",
+        "fr": "★★★★★ 4,9",
+        "de": "★★★★★ 4,9",
+        "it": "★★★★★ 4,9"
+    },
+    "recognitionQualityTitle": {
+        "es": "Calidad consistente",
+        "en": "Consistent quality",
+        "fr": "Qualité constante",
+        "de": "Konstante Qualität",
+        "it": "Qualità costante"
+    },
+    "recognitionQualitySubtitle": {
+        "es": "★★★★★ 5,0",
+        "en": "★★★★★ 5.0",
+        "fr": "★★★★★ 5,0",
+        "de": "★★★★★ 5,0",
+        "it": "★★★★★ 5,0"
+    },
+    "interiorSpacesTitle": {
+        "es": "Espacios interiores",
+        "en": "Interior Spaces",
+        "fr": "Espaces intérieurs",
+        "de": "Innenbereiche",
+        "it": "Spazi interni"
+    },
+    "livingRoomTitle": {
+        "es": "Sala de estar",
+        "en": "Living Room",
+        "fr": "Salon",
+        "de": "Wohnzimmer",
+        "it": "Soggiorno"
+    },
+    "livingRoomDescription": {
+        "es": "Acogedora. Equipada con un grande TV SMART de 65\" con Netflix, Rakuten (Google por voz), etc. Incluye un sofá de cuero y un columpio relajante.",
+        "en": "Cozy. Equipped with a large 65\" SMART TV with Netflix, Rakuten (Google voice), etc. Includes a leather sofa and a relaxing swing chair.",
+        "fr": "Accueillant. Équipé d'une grande TV SMART de 65\" avec Netflix, Rakuten (Google vocal), etc. Comprend un canapé en cuir et une balançoire relaxante.",
+        "de": "Gemütlich. Ausgestattet mit einem großen 65\" SMART TV mit Netflix, Rakuten (Google Sprachsteuerung) etc. Inklusive Ledersofa und entspannender Schaukel.",
+        "it": "Accogliente. Dotato di una grande SMART TV da 65\" con Netflix, Rakuten (Google vocale), ecc. Include un divano in pelle e un'altalena rilassante."
+    },
+    "diningRoomTitle": {
+        "es": "Comedor",
+        "en": "Dining Room",
+        "fr": "Salle à manger",
+        "de": "Esszimmer",
+        "it": "Sala da pranzo"
+    },
+    "diningRoomDescription": {
+        "es": "Área integrada con la sala de estar, con una mesa grande abatible en la terraza adyacente. Ambiente elegante y luminoso.",
+        "en": "Area integrated with the living room, with a large folding table on the adjacent terrace. Elegant and bright atmosphere.",
+        "fr": "Espace intégré au salon, avec une grande table pliante sur la terrasse adjacente. Ambiance élégante et lumineuse.",
+        "de": "In den Wohnbereich integrierter Bereich mit einem großen Klapptisch auf der angrenzenden Terrasse. Elegante und helle Atmosphäre.",
+        "it": "Area integrata con il soggiorno, con un grande tavolo pieghevole sulla terrazza adiacente. Ambiente elegante e luminoso."
+    },
+    "bedrooms2Title": {
+        "es": "2 Dormitorios",
+        "en": "2 Bedrooms",
+        "fr": "2 Chambres",
+        "de": "2 Schlafzimmer",
+        "it": "2 Camere da letto"
+    },
+    "bedrooms2Description": {
+        "es": "Cada habitación tiene una cama doble (1.40 cm). Cada habitación es exterior con terraza y vistas al mar. Cada habitación cuenta con TV SMART con mando por voz y WiFi incorporado.",
+        "en": "Each room has a double bed (1.40 cm). Each room is exterior with a terrace and sea views. Each room has a SMART TV with voice control and built-in WiFi.",
+        "fr": "Chaque chambre dispose d'un lit double (1,40 cm). Chaque chambre est extérieure avec terrasse et vue sur mer. Chaque chambre est équipée d'une TV SMART avec commande vocale et WiFi intégré.",
+        "de": "Jedes Zimmer verfügt über ein Doppelbett (1,40 cm). Jedes Zimmer ist nach außen gerichtet mit Terrasse und Meerblick. Jedes Zimmer verfügt über einen SMART TV mit Sprachsteuerung und integriertem WLAN.",
+        "it": "Ogni camera ha un letto matrimoniale (1,40 cm). Ogni camera è esterna con terrazza e vista mare. Ogni camera dispone di SMART TV con controllo vocale e WiFi integrato."
+    },
+    "kitchenTitle": {
+        "es": "Cocina",
+        "en": "Kitchen",
+        "fr": "Cuisine",
+        "de": "Küche",
+        "it": "Cucina"
+    },
+    "kitchenDescription": {
+        "es": "Totalmente equipada con nevera americana, lavavajillas Bosch, vitrocerámica y todos los electrodomésticos necesarios.",
+        "en": "Fully equipped with an American fridge, Bosch dishwasher, ceramic hob, and all necessary appliances.",
+        "fr": "Entièrement équipée avec réfrigérateur américain, lave-vaisselle Bosch, plaque vitrocéramique et tous les appareils nécessaires.",
+        "de": "Komplett ausgestattet mit amerikanischem Kühlschrank, Bosch Geschirrspüler, Cerankochfeld und allen notwendigen Elektrogeräten.",
+        "it": "Completamente attrezzata con frigorifero americano, lavastoviglie Bosch, piano cottura in vetroceramica e tutti gli elettrodomestici necessari."
+    },
+    "bathrooms2Title": {
+        "es": "2 Baños",
+        "en": "2 Bathrooms",
+        "fr": "2 Salles de bain",
+        "de": "2 Badezimmer",
+        "it": "2 Bagni"
+    },
+    "bathrooms2Description": {
+        "es": "Baños completos. Equipados con bidé, bañera, secador de pelo, productos de limpieza, champú, gel de ducha. Agua caliente disponible.",
+        "en": "Full bathrooms. Equipped with bidet, bathtub, hairdryer, cleaning products, shampoo, shower gel. Hot water available.",
+        "fr": "Salles de bain complètes. Équipées de bidet, baignoire, sèche-cheveux, produits de nettoyage, shampoing, gel douche. Eau chaude disponible.",
+        "de": "Komplette Badezimmer. Ausgestattet mit Bidet, Badewanne, Haartrockner, Reinigungsmitteln, Shampoo, Duschgel. Warmwasser verfügbar.",
+        "it": "Bagni completi. Dotati di bidet, vasca da bagno, asciugacapelli, prodotti per la pulizia, shampoo, bagnoschiuma. Acqua calda disponibile."
+    },
+    "exteriorSpacesTitle": {
+        "es": "Espacios exteriores",
+        "en": "Exterior Spaces",
+        "fr": "Espaces extérieurs",
+        "de": "Außenbereiche",
+        "it": "Spazi esterni"
+    },
+    "terraceTitle": {
+        "es": "Terraza",
+        "en": "Terrace",
+        "fr": "Terrasse",
+        "de": "Terrasse",
+        "it": "Terrazza"
+    },
+    "terraceDescription": {
+        "es": "Amplia y fabulosa. Equipada con una mesa grande abatible y 4 sillas de madera cómodas. Funciona como patio privado o balcón. Dispone de mobiliario exterior y zona de comedor al aire libre.",
+        "en": "Spacious and fabulous. Equipped with a large folding table and 4 comfortable wooden chairs. Functions as a private patio or balcony. Features outdoor furniture and an outdoor dining area.",
+        "fr": "Spacieuse et fabuleuse. Équipée d'une grande table pliante et de 4 chaises en bois confortables. Fonctionne comme un patio privé ou un balcon. Dispose de mobilier extérieur et d'un coin repas en plein air.",
+        "de": "Geräumig und fabelhaft. Ausgestattet mit großem Klapptisch und 4 bequemen Holzstühlen. Funktioniert als privater Patio oder Balkon. Verfügt über Gartenmöbel und einen Essbereich im Freien.",
+        "it": "Ampia e favolosa. Dotata di un grande tavolo pieghevole e 4 comode sedie in legno. Funziona come patio privato o balcone. Dispone di mobili da esterno e zona pranzo all'aperto."
+    },
+    "panoramicViewsTitle": {
+        "es": "Vistas panorámicas",
+        "en": "Panoramic Views",
+        "fr": "Vues panoramiques",
+        "de": "Panoramablick",
+        "it": "Viste panoramiche"
+    },
+    "viewSea": {
+        "es": "Vistas directas al mar y amanecer",
+        "en": "Direct sea and sunrise views",
+        "fr": "Vues directes sur la mer et le lever du soleil",
+        "de": "Direkter Meer- und Sonnenaufgangsblick",
+        "it": "Viste dirette sul mare e sull'alba"
+    },
+    "viewBoats": {
+        "es": "Club Náutico (Dársena), barcos y yates",
+        "en": "Yacht Club (Dock), boats and yachts",
+        "fr": "Club Nautique (Bassin), bateaux et yachts",
+        "de": "Yachtclub (Hafenbecken), Boote und Yachten",
+        "it": "Club Nautico (Darsena), barche e yacht"
+    },
+    "viewPool": {
+        "es": "Vistas a la piscina",
+        "en": "Pool views",
+        "fr": "Vues sur la piscine",
+        "de": "Blick auf den Pool",
+        "it": "Viste sulla piscina"
+    },
+    "viewBeach": {
+        "es": "Vistas a la playa",
+        "en": "Beach views",
+        "fr": "Vues sur la plage",
+        "de": "Blick auf den Strand",
+        "it": "Viste sulla spiaggia"
+    },
+    "viewGarden": {
+        "es": "Vistas al jardín",
+        "en": "Garden views",
+        "fr": "Vues sur le jardin",
+        "de": "Blick auf den Garten",
+        "it": "Viste sul giardino"
+    },
+    "viewChannel": {
+        "es": "Vistas al canal",
+        "en": "Canal views",
+        "fr": "Vues sur le canal",
+        "de": "Blick auf den Kanal",
+        "it": "Viste sul canale"
+    },
+    "viewPort": {
+        "es": "Vistas al puerto",
+        "en": "Port views",
+        "fr": "Vues sur le port",
+        "de": "Blick auf den Hafen",
+        "it": "Viste sul porto"
+    },
+    "proximityTitle": {
+        "es": "Proximidad",
+        "en": "Proximity",
+        "fr": "Proximité",
+        "de": "Nähe",
+        "it": "Prossimità"
+    },
+    "proximityBeach": {
+        "es": "Primera línea de playa, a diez pasos",
+        "en": "Beachfront, ten steps away",
+        "fr": "Front de mer, à dix pas",
+        "de": "Erste Strandreihe, zehn Schritte entfernt",
+        "it": "Prima linea sulla spiaggia, a dieci passi"
+    },
+    "gallerySectionTitle": {
+        "es": "Galería de fotos",
+        "en": "Photo Gallery",
+        "fr": "Galerie de photos",
+        "de": "Fotogalerie",
+        "it": "Galleria fotografica"
+    },
+    "galleryAltTerraza1": {
+        "es": "Vista exterior de Port Saplaya",
+        "en": "Exterior view of Port Saplaya",
+        "fr": "Vue extérieure de Port Saplaya",
+        "de": "Außenansicht von Port Saplaya",
+        "it": "Vista esterna di Port Saplaya"
+    },
+    "galleryAltSalon1": {
+        "es": "Sala de estar",
+        "en": "Living room",
+        "fr": "Salon",
+        "de": "Wohnzimmer",
+        "it": "Soggiorno"
+    },
+    "galleryAltCocina1": {
+        "es": "Cocina moderna",
+        "en": "Modern kitchen",
+        "fr": "Cuisine moderne",
+        "de": "Moderne Küche",
+        "it": "Cucina moderna"
+    },
+    "galleryAltDormitorio1": {
+        "es": "Dormitorio principal",
+        "en": "Main bedroom",
+        "fr": "Chambre principale",
+        "de": "Hauptschlafzimmer",
+        "it": "Camera da letto principale"
+    },
+    "galleryAltComedor1": {
+        "es": "Comedor",
+        "en": "Dining room",
+        "fr": "Salle à manger",
+        "de": "Esszimmer",
+        "it": "Sala da pranzo"
+    },
+    "galleryAltBano1": {
+        "es": "Baño de lujo",
+        "en": "Luxury bathroom",
+        "fr": "Salle de bain de luxe",
+        "de": "Luxus-Badezimmer",
+        "it": "Bagno di lusso"
+    },
+    "galleryViewMoreButton": {
+        "es": "Ver más fotos en",
+        "en": "See more photos on",
+        "fr": "Voir plus de photos sur",
+        "de": "Mehr Fotos ansehen auf",
+        "it": "Vedi altre foto su"
+    },
+    "neighborhoodSectionTitle": {
+        "es": "Port Saplaya - La Pequeña Venecia",
+        "en": "Port Saplaya - Little Venice",
+        "fr": "Port Saplaya - La Petite Venise",
+        "de": "Port Saplaya - Das Kleine Venedig",
+        "it": "Port Saplaya - La Piccola Venezia"
+    },
+    "neighborhoodDescription1": {
+        "es": "Port Saplaya es un pintoresco barrio marinero al norte de Valencia, conocido por sus coloridas casas junto al canal que le han valido el apodo de \"la pequeña Venecia\". Esta zona residencial exclusiva ofrece un ambiente tranquilo y familiar, ideal para quienes buscan vivir cerca del mar sin renunciar a las comodidades de la ciudad.",
+        "en": "Port Saplaya is a picturesque seaside neighborhood north of Valencia, known for its colorful canal-side houses that have earned it the nickname \"Little Venice.\" This exclusive residential area offers a quiet and family-friendly atmosphere, ideal for those looking to live near the sea without giving up city conveniences.",
+        "fr": "Port Saplaya est un quartier maritime pittoresque au nord de Valence, connu pour ses maisons colorées le long du canal qui lui ont valu le surnom de \"la petite Venise\". Cette zone résidentielle exclusive offre une ambiance tranquille et familiale, idéale pour ceux qui cherchent à vivre près de la mer sans renoncer aux commodités de la ville.",
+        "de": "Port Saplaya ist ein malerisches Fischerviertel nördlich von Valencia, bekannt für seine bunten Häuser am Kanal, die ihm den Spitznamen \"das kleine Venedig\" eingebracht haben. Dieses exklusive Wohngebiet bietet eine ruhige und familiäre Atmosphäre, ideal für diejenigen, die in Meeresnähe leben möchten, ohne auf die Annehmlichkeiten der Stadt zu verzichten.",
+        "it": "Port Saplaya è un pittoresco quartiere marinaro a nord di Valencia, noto per le sue case colorate lungo il canale che gli hanno valso il soprannome di \"la piccola Venezia\". Questa zona residenziale esclusiva offre un'atmosfera tranquilla e familiare, ideale per chi cerca di vivere vicino al mare senza rinunciare alle comodità della città."
+    },
+    "neighborhoodDescription2": {
+        "es": "El piso se encuentra en una zona privilegiada, a solo 50 metros de la playa de Port Saplaya y a 200 metros del puerto deportivo. La zona cuenta con todos los servicios necesarios: supermercados, farmacias, restaurantes con terraza junto al mar y conexión directa con Valencia mediante transporte público.",
+        "en": "The apartment is located in a privileged area, just 50 meters from Port Saplaya beach and 200 meters from the marina. The area has all necessary services: supermarkets, pharmacies, restaurants with seaside terraces, and direct connection to Valencia via public transport.",
+        "fr": "L'appartement est situé dans une zone privilégiée, à seulement 50 mètres de la plage de Port Saplaya et à 200 mètres du port de plaisance. La zone dispose de tous les services nécessaires : supermarchés, pharmacies, restaurants avec terrasse en bord de mer et connexion directe avec Valence par les transports en commun.",
+        "de": "Die Wohnung befindet sich in einer privilegierten Gegend, nur 50 Meter vom Strand von Port Saplaya und 200 Meter vom Yachthafen entfernt. Die Gegend verfügt über alle notwendigen Dienstleistungen: Supermärkte, Apotheken, Restaurants mit Meerblick-Terrassen und direkte Verbindung nach Valencia mit öffentlichen Verkehrsmitteln.",
+        "it": "L'appartamento si trova in una zona privilegiata, a soli 50 metri dalla spiaggia di Port Saplaya e a 200 metri dal porto turistico. La zona dispone di tutti i servizi necessari: supermercati, farmacie, ristoranti con terrazza sul mare e collegamento diretto con Valencia tramite trasporto pubblico."
+    },
+    "neighborhoodAltView": {
+        "es": "Vistas de Port Saplaya",
+        "en": "Views of Port Saplaya",
+        "fr": "Vues de Port Saplaya",
+        "de": "Ansichten von Port Saplaya",
+        "it": "Viste di Port Saplaya"
+    },
+    "featureBeachAccess": {
+        "es": "5 min a la playa",
+        "en": "5 min to the beach",
+        "fr": "5 min de la plage",
+        "de": "5 Min. zum Strand",
+        "it": "5 min dalla spiaggia"
+    },
+    "featureBusStop": {
+        "es": "Parada a 100m",
+        "en": "Bus stop 100m",
+        "fr": "Arrêt de bus à 100m",
+        "de": "Bushaltestelle 100m",
+        "it": "Fermata bus a 100m"
+    },
+    "featureSupermarket": {
+        "es": "Supermercado 200m",
+        "en": "Supermarket 200m",
+        "fr": "Supermarché à 200m",
+        "de": "Supermarkt 200m",
+        "it": "Supermercato a 200m"
+    },
+    "locationSectionTitle": {
+        "es": "Ubicación privilegiada",
+        "en": "Privileged Location",
+        "fr": "Emplacement privilégié",
+        "de": "Privilegierte Lage",
+        "it": "Posizione privilegiata"
+    },
+    "locationPortSaplayaTitle": {
+        "es": "Port Saplaya, Alboraya",
+        "en": "Port Saplaya, Alboraya",
+        "fr": "Port Saplaya, Alboraya",
+        "de": "Port Saplaya, Alboraya",
+        "it": "Port Saplaya, Alboraya"
+    },
+    "locationPortSaplayaDescription": {
+        "es": "Conocido como \"Pequeña Venecia Española\" por sus encantadores canales y casas coloridas, Port Saplaya es una zona turística residencial de alto nivel en la costa de la Comunidad Valenciana.",
+        "en": "Known as \"Little Venice of Spain\" for its charming canals and colorful houses, Port Saplaya is a high-end residential tourist area on the coast of the Valencian Community.",
+        "fr": "Connu como la \"Petite Venise Espagnole\" pour ses charmants canaux et ses maisons colorées, Port Saplaya est une zone touristique résidentielle de haut standing sur la côte de la Communauté Valencienne.",
+        "de": "Bekannt als \"Kleines Venedig Spaniens\" wegen seiner charmanten Kanäle und bunten Häuser, ist Port Saplaya ein gehobenes Wohn- und Touristengebiet an der Küste der Valencianischen Gemeinschaft.",
+        "it": "Conosciuta come la \"Piccola Venezia Spagnola\" per i suoi incantevoli canali e le case colorate, Port Saplaya è una zona turistica residenziale di alto livello sulla costa della Comunità Valenciana."
+    },
+    "nearbyServicesTitle": {
+        "es": "Servicios cercanos:",
+        "en": "Nearby Services:",
+        "fr": "Services à proximité :",
+        "de": "Dienstleistungen in der Nähe:",
+        "it": "Servizi nelle vicinanze:"
+    },
+    "serviceRestaurants": {
+        "es": "Restaurantes",
+        "en": "Restaurants",
+        "fr": "Restaurants",
+        "de": "Restaurants",
+        "it": "Ristoranti"
+    },
+    "serviceCafes": {
+        "es": "Cafeterías",
+        "en": "Cafes",
+        "fr": "Cafés",
+        "de": "Cafés",
+        "it": "Caffetterie"
+    },
+    "serviceSupermarkets": {
+        "es": "Supermercados",
+        "en": "Supermarkets",
+        "fr": "Supermarchés",
+        "de": "Supermärkte",
+        "it": "Supermercati"
+    },
+    "serviceGreengrocers": {
+        "es": "Fruterías",
+        "en": "Greengrocers",
+        "fr": "Primeurs",
+        "de": "Gemüsehändler",
+        "it": "Fruttivendoli"
+    },
+    "servicePharmacy": {
+        "es": "Farmacia",
+        "en": "Pharmacy",
+        "fr": "Pharmacie",
+        "de": "Apotheke",
+        "it": "Farmacia"
+    },
+    "serviceKebab": {
+        "es": "Kebab",
+        "en": "Kebab",
+        "fr": "Kebab",
+        "de": "Kebab",
+        "it": "Kebab"
+    },
+    "servicePub": {
+        "es": "Pub",
+        "en": "Pub",
+        "fr": "Pub",
+        "de": "Pub",
+        "it": "Pub"
+    },
+    "serviceShoppingCenter": {
+        "es": "Centro comercial",
+        "en": "Shopping Center",
+        "fr": "Centre commercial",
+        "de": "Einkaufszentrum",
+        "it": "Centro commerciale"
+    },
+    "shoppingCenterInfo": {
+        "es": "El centro comercial incluye: Auchan, Burger King, KFC, Leroy Merlin.",
+        "en": "The shopping center includes: Auchan, Burger King, KFC, Leroy Merlin.",
+        "fr": "Le centre commercial comprend : Auchan, Burger King, KFC, Leroy Merlin.",
+        "de": "Das Einkaufszentrum umfasst: Auchan, Burger King, KFC, Leroy Merlin.",
+        "it": "Il centro commerciale include: Auchan, Burger King, KFC, Leroy Merlin."
+    },
+    "communicationTitle": {
+        "es": "Comunicación",
+        "en": "Connectivity",
+        "fr": "Communication",
+        "de": "Verbindung",
+        "it": "Comunicazione"
+    },
+    "communicationDescription": {
+        "es": "Excelente conexión con el centro de Valencia:",
+        "en": "Excellent connection to Valencia city center:",
+        "fr": "Excellente connexion avec le centre de Valence :",
+        "de": "Ausgezeichnete Verbindung zum Zentrum von Valencia:",
+        "it": "Ottimo collegamento con il centro di Valencia:"
+    },
+    "transportTaxi": {
+        "es": "5 minutos en taxi",
+        "en": "5 minutes by taxi",
+        "fr": "5 minutes en taxi",
+        "de": "5 Minuten mit dem Taxi",
+        "it": "5 minuti in taxi"
+    },
+    "transportBus": {
+        "es": "5 minutos en autobús",
+        "en": "5 minutes by bus",
+        "fr": "5 minutes en bus",
+        "de": "5 Minuten mit dem Bus",
+        "it": "5 minuti in autobus"
+    },
+    "amenitiesSectionTitle": {
+        "es": "Servicios y comodidades",
+        "en": "Services and Amenities",
+        "fr": "Services et équipements",
+        "de": "Dienstleistungen und Annehmlichkeiten",
+        "it": "Servizi e comfort"
+    },
+    "amenityClimateControlTitle": {
+        "es": "Climatización",
+        "en": "Climate Control",
+        "fr": "Climatisation",
+        "de": "Klimatisierung",
+        "it": "Climatizzazione"
+    },
+    "amenityClimateControlDesc": {
+        "es": "Aire acondicionado por conducto centralizado con recirculación de aire (enfría y calienta todo el apartamento). Calefacción central.",
+        "en": "Centralized ducted air conditioning with air recirculation (cools and heats the entire apartment). Central heating.",
+        "fr": "Climatisation centralisée par conduits avec recirculation d'air (refroidit et chauffe tout l'appartement). Chauffage central.",
+        "de": "Zentrale Klimaanlage mit Luftumwälzung (kühlt und heizt die gesamte Wohnung). Zentralheizung.",
+        "it": "Aria condizionata canalizzata centralizzata con ricircolo d'aria (raffredda e riscalda tutto l'appartamento). Riscaldamento centralizzato."
+    },
+    "amenityEquippedKitchenTitle": {
+        "es": "Cocina equipada",
+        "en": "Equipped Kitchen",
+        "fr": "Cuisine équipée",
+        "de": "Ausgestattete Küche",
+        "it": "Cucina attrezzata"
+    },
+    "amenityEquippedKitchenDesc": {
+        "es": "Nevera americana side-by-side, Lavavajillas Bosch, Lavadora AEG, Microondas, Vitrocerámica, Cafetera, Tostadora, Batidora, Hervidor de agua.",
+        "en": "American side-by-side fridge, Bosch dishwasher, AEG washing machine, Microwave, Ceramic hob, Coffee maker, Toaster, Blender, Kettle.",
+        "fr": "Réfrigérateur américain side-by-side, Lave-vaisselle Bosch, Lave-linge AEG, Micro-ondes, Plaque vitrocéramique, Cafetière, Grille-pain, Mixeur, Bouilloire.",
+        "de": "Amerikanischer Side-by-Side-Kühlschrank, Bosch Geschirrspüler, AEG Waschmaschine, Mikrowelle, Cerankochfeld, Kaffeemaschine, Toaster, Mixer, Wasserkocher.",
+        "it": "Frigorifero americano side-by-side, Lavastoviglie Bosch, Lavatrice AEG, Microonde, Piano cottura in vetroceramica, Caffettiera, Tostapane, Frullatore, Bollitore."
+    },
+    "amenityEntertainmentTitle": {
+        "es": "Entretenimiento",
+        "en": "Entertainment",
+        "fr": "Divertissement",
+        "de": "Unterhaltung",
+        "it": "Intrattenimento"
+    },
+    "amenityEntertainmentDesc": {
+        "es": "TV 65\" con plataformas (Netflix, Disney+, HBO Max), Sistema de sonido Bosse con bluetooth, Videoconsola.",
+        "en": "65\" TV with platforms (Netflix, Disney+, HBO Max), Bosse sound system with Bluetooth, Video game console.",
+        "fr": "TV 65\" avec plateformes (Netflix, Disney+, HBO Max), Système audio Bosse avec Bluetooth, Console de jeux vidéo.",
+        "de": "65\" TV mit Plattformen (Netflix, Disney+, HBO Max), Bosse Soundsystem mit Bluetooth, Videospielkonsole.",
+        "it": "TV 65\" con piattaforme (Netflix, Disney+, HBO Max), Sistema audio Bosse con bluetooth, Console per videogiochi."
+    },
+    "amenityInternetTitle": {
+        "es": "Internet",
+        "en": "Internet",
+        "fr": "Internet",
+        "de": "Internet",
+        "it": "Internet"
+    },
+    "amenityInternetDesc": {
+        "es": "WiFi rápido (206 Mbps), Zona para trabajar, Conexión Ethernet.",
+        "en": "Fast WiFi (206 Mbps), Workspace, Ethernet connection.",
+        "fr": "WiFi rapide (206 Mbps), Espace de travail, Connexion Ethernet.",
+        "de": "Schnelles WLAN (206 Mbit/s), Arbeitsbereich, Ethernet-Anschluss.",
+        "it": "WiFi veloce (206 Mbps), Zona per lavorare, Connessione Ethernet."
+    },
+    "amenityBathroomsTitle": {
+        "es": "Baños",
+        "en": "Bathrooms",
+        "fr": "Salles de bain",
+        "de": "Badezimmer",
+        "it": "Bagni"
+    },
+    "amenityBathroomsDesc": {
+        "es": "2 baños completos con bidé, bañera, ducha exterior, agua caliente y secador de pelo.",
+        "en": "2 full bathrooms with bidet, bathtub, outdoor shower, hot water, and hairdryer.",
+        "fr": "2 salles de bain complètes avec bidet, baignoire, douche extérieure, eau chaude et sèche-cheveux.",
+        "de": "2 komplette Badezimmer mit Bidet, Badewanne, Außendusche, Warmwasser und Haartrockner.",
+        "it": "2 bagni completi con bidet, vasca da bagno, doccia esterna, acqua calda e asciugacapelli."
+    },
+    "amenityLaundryTitle": {
+        "es": "Lavandería",
+        "en": "Laundry",
+        "fr": "Buanderie",
+        "de": "Wäsche",
+        "it": "Lavanderia"
+    },
+    "amenityLaundryDesc": {
+        "es": "Lavadora y secadora en el alojamiento (gratis), plancha, tendedero.",
+        "en": "Washer and dryer in unit (free), iron, drying rack.",
+        "fr": "Lave-linge et sèche-linge dans le logement (gratuit), fer à repasser, étendoir.",
+        "de": "Waschmaschine und Trockner in der Unterkunft (kostenlos), Bügeleisen, Wäscheständer.",
+        "it": "Lavatrice e asciugatrice nell'alloggio (gratis), ferro da stiro, stendibiancheria."
+    },
+    "amenityBedLinenTitle": {
+        "es": "Ropa de cama",
+        "en": "Bed Linen",
+        "fr": "Linge de lit",
+        "de": "Bettwäsche",
+        "it": "Biancheria da letto"
+    },
+    "amenityBedLinenDesc": {
+        "es": "Marcas Versace, Pierre Cardin, Canal, Burberry. Toallas, sábanas, almohadas y mantas adicionales.",
+        "en": "Brands Versace, Pierre Cardin, Canal, Burberry. Towels, sheets, extra pillows and blankets.",
+        "fr": "Marques Versace, Pierre Cardin, Canal, Burberry. Serviettes, draps, oreillers et couvertures supplémentaires.",
+        "de": "Marken Versace, Pierre Cardin, Canal, Burberry. Handtücher, Bettwäsche, zusätzliche Kissen und Decken.",
+        "it": "Marche Versace, Pierre Cardin, Canal, Burberry. Asciugamani, lenzuola, cuscini e coperte extra."
+    },
+    "amenityTerraceTitle": {
+        "es": "Terraza",
+        "en": "Terrace",
+        "fr": "Terrasse",
+        "de": "Terrasse",
+        "it": "Terrazza"
+    },
+    "amenityTerraceDesc": {
+        "es": "Amplia con mesa grande abatible y 4 sillas de madera cómodas. Mobiliario exterior y comedor al aire libre.",
+        "en": "Spacious with a large folding table and 4 comfortable wooden chairs. Outdoor furniture and outdoor dining area.",
+        "fr": "Spacieuse avec une grande table pliante et 4 chaises en bois confortables. Mobilier extérieur et coin repas en plein air.",
+        "de": "Geräumig mit großem Klapptisch und 4 bequemen Holzstühlen. Gartenmöbel und Essbereich im Freien.",
+        "it": "Ampia con grande tavolo pieghevole e 4 comode sedie in legno. Mobili da esterno e zona pranzo all'aperto."
+    },
+    "amenityBBQTitle": {
+        "es": "Barbacoa",
+        "en": "Barbecue",
+        "fr": "Barbecue",
+        "de": "Grill",
+        "it": "Barbecue"
+    },
+    "amenityBBQDesc": {
+        "es": "De gas. Se incluyen utensilios de barbacoa (parrilla, carbón, brochetas de bambú/hierro).",
+        "en": "Gas. Barbecue utensils included (grill, charcoal, bamboo/iron skewers).",
+        "fr": "À gaz. Ustensiles de barbecue inclus (grille, charbon, brochettes bambou/fer).",
+        "de": "Gas. Grillutensilien inklusive (Grillrost, Kohle, Bambus-/Eisenspieße).",
+        "it": "A gas. Utensili per barbecue inclusi (griglia, carbone, spiedini di bambù/ferro)."
+    },
+    "amenityPoolTitle": {
+        "es": "Piscina",
+        "en": "Pool",
+        "fr": "Piscine",
+        "de": "Pool",
+        "it": "Piscina"
+    },
+    "amenityPoolDesc": {
+        "es": "Descubierta compartida (20 jun-20 sep, 11:00-20:30). Piscina para nadar.",
+        "en": "Shared outdoor (June 20-Sep 20, 11:00-20:30). Swimming pool.",
+        "fr": "Extérieure partagée (20 juin-20 sept, 11:00-20:30). Piscine pour nager.",
+        "de": "Gemeinsamer Außenpool (20. Juni-20. Sept, 11:00-20:30). Schwimmbecken.",
+        "it": "Esterna condivisa (20 giu-20 set, 11:00-20:30). Piscina per nuotare."
+    },
+    "amenityBeachItemsTitle": {
+        "es": "Elementos de playa",
+        "en": "Beach Essentials",
+        "fr": "Équipement de plage",
+        "de": "Strandutensilien",
+        "it": "Articoli da spiaggia"
+    },
+    "amenityBeachItemsDesc": {
+        "es": "Se proporcionan toallas de playa, sombrilla, esterilla y equipo de snorkel. Hay tumbonas disponibles.",
+        "en": "Beach towels, umbrella, mat, and snorkeling gear provided. Sun loungers available.",
+        "fr": "Serviettes de plage, parasol, tapis et équipement de snorkeling fournis. Chaises longues disponibles.",
+        "de": "Strandtücher, Sonnenschirm, Matte und Schnorchelausrüstung werden gestellt. Sonnenliegen sind vorhanden.",
+        "it": "Vengono forniti teli mare, ombrellone, stuoia e attrezzatura per lo snorkeling. Sono disponibili lettini."
+    },
+    "amenityParkingTitle": {
+        "es": "Aparcamiento",
+        "en": "Parking",
+        "fr": "Parking",
+        "de": "Parkplatz",
+        "it": "Parcheggio"
+    },
+    "amenityParkingDesc": {
+        "es": "1 plaza privada subterránea gratuita (altura máx. 1.80m). Aparcamiento gratuito en calle.",
+        "en": "1 free private underground parking space (max height 1.80m). Free street parking.",
+        "fr": "1 place de parking souterrain privée gratuite (hauteur max 1.80m). Parking gratuit dans la rue.",
+        "de": "1 kostenloser privater Tiefgaragenstellplatz (max. Höhe 1,80m). Kostenlose Parkplätze auf der Straße.",
+        "it": "1 posto auto privato sotterraneo gratuito (altezza max 1.80m). Parcheggio gratuito in strada."
+    },
+    "amenityElevatorTitle": {
+        "es": "Ascensor",
+        "en": "Elevator",
+        "fr": "Ascenseur",
+        "de": "Aufzug",
+        "it": "Ascensore"
+    },
+    "amenityElevatorDesc": {
+        "es": "En el edificio con dimensiones accesibles.",
+        "en": "In the building with accessible dimensions.",
+        "fr": "Dans l'immeuble avec dimensions accessibles.",
+        "de": "Im Gebäude mit barrierefreien Abmessungen.",
+        "it": "Nell'edificio con dimensioni accessibili."
+    },
+    "safetyHomeTitle": {
+        "es": "Seguridad en el hogar",
+        "en": "Home Safety",
+        "fr": "Sécurité à la maison",
+        "de": "Sicherheit zu Hause",
+        "it": "Sicurezza domestica"
+    },
+    "safetyFireExtinguisher": {
+        "es": "Extintor de incendios",
+        "en": "Fire extinguisher",
+        "fr": "Extincteur d'incendie",
+        "de": "Feuerlöscher",
+        "it": "Estintore"
+    },
+    "safetyWindowGuards": {
+        "es": "Seguros para ventanas",
+        "en": "Window guards",
+        "fr": "Protections de fenêtre",
+        "de": "Fenstersicherungen",
+        "it": "Protezioni per finestre"
+    },
+    "safetyOutletCovers": {
+        "es": "Protectores de enchufes",
+        "en": "Outlet covers",
+        "fr": "Cache-prises",
+        "de": "Steckdosenschutz",
+        "it": "Copripresa"
+    },
+    "suitabilityRestrictionsTitle": {
+        "es": "Adecuación y restricciones",
+        "en": "Suitability and Restrictions",
+        "fr": "Adéquation et restrictions",
+        "de": "Eignung und Einschränkungen",
+        "it": "Idoneità e restrizioni"
+    },
+    "restrictionChildren": {
+        "es": "No apto para niños menores de 8 años",
+        "en": "Not suitable for children under 8 years old",
+        "fr": "Ne convient pas aux enfants de moins de 8 ans",
+        "de": "Nicht geeignet für Kinder unter 8 Jahren",
+        "it": "Non adatto a bambini sotto gli 8 anni"
+    },
+    "restrictionPets": {
+        "es": "No se aceptan animales de compañía",
+        "en": "No pets allowed",
+        "fr": "Animaux de compagnie non admis",
+        "de": "Keine Haustiere erlaubt",
+        "it": "Animali domestici non ammessi"
+    },
+    "restrictionGuests": {
+        "es": "No apto para más de 4 personas",
+        "en": "Not suitable for more than 4 people",
+        "fr": "Ne convient pas à plus de 4 personnes",
+        "de": "Nicht geeignet für mehr als 4 Personen",
+        "it": "Non adatto a più di 4 persone"
+    },
+    "houseRulesTitle": {
+        "es": "Normas de la casa",
+        "en": "House Rules",
+        "fr": "Règlement intérieur",
+        "de": "Hausregeln",
+        "it": "Regole della casa"
+    },
+    "ruleQuietHours": {
+        "es": "No hacer ruido excesivo de 22:00 a 10:00",
+        "en": "No excessive noise from 10:00 PM to 10:00 AM",
+        "fr": "Pas de bruit excessif de 22h00 à 10h00",
+        "de": "Kein übermäßiger Lärm von 22:00 bis 10:00 Uhr",
+        "it": "Non fare rumore eccessivo dalle 22:00 alle 10:00"
+    },
+    "ruleParties": {
+        "es": "No fiestas/reuniones que alteren el orden",
+        "en": "No parties/gatherings that disturb the peace",
+        "fr": "Pas de fêtes/rassemblements qui troublent l'ordre",
+        "de": "Keine Partys/Versammlungen, die die Ruhe stören",
+        "it": "Non feste/riunioni che disturbino l'ordine"
+    },
+    "ruleSmoking": {
+        "es": "Prohibido fumar dentro (solo en terraza)",
+        "en": "No smoking inside (only on terrace)",
+        "fr": "Interdit de fumer à l'intérieur (seulement sur la terrasse)",
+        "de": "Rauchen im Inneren verboten (nur auf der Terrasse)",
+        "it": "Vietato fumare all'interno (solo in terrazza)"
+    },
+    "ruleDrugs": {
+        "es": "No consumo/venta de drogas",
+        "en": "No drug use/sale",
+        "fr": "Pas de consommation/vente de drogues",
+        "de": "Kein Drogenkonsum/-verkauf",
+        "it": "Non consumo/vendita di droghe"
+    },
+    "ruleFlammables": {
+        "es": "Prohibido velas o elementos inflamables",
+        "en": "No candles or flammable items",
+        "fr": "Interdit bougies ou éléments inflammables",
+        "de": "Kerzen oder brennbare Gegenstände verboten",
+        "it": "Vietato candele o elementi infiammabili"
+    },
+    "ruleDecorations": {
+        "es": "No mover elementos decorativos",
+        "en": "Do not move decorative items",
+        "fr": "Ne pas déplacer les éléments décoratifs",
+        "de": "Dekorative Gegenstände nicht bewegen",
+        "it": "Non spostare elementi decorativi"
+    },
+    "ruleRestHours": {
+        "es": "Respetar horario de descanso",
+        "en": "Respect quiet hours",
+        "fr": "Respecter les heures de repos",
+        "de": "Ruhezeiten einhalten",
+        "it": "Rispettare l'orario di riposo"
+    },
+    "contactSectionTitle": {
+        "es": "¿Interesado en el piso?",
+        "en": "Interested in the apartment?",
+        "fr": "Intéressé par l'appartement ?",
+        "de": "Interesse an der Wohnung?",
+        "it": "Interessato all'appartamento?"
+    },
+    "contactSectionSubtitle": {
+        "es": "Contáctanos para concertar una visita o resolver tus dudas",
+        "en": "Contact us to arrange a visit or resolve your doubts",
+        "fr": "Contactez-nous pour organiser une visite ou résoudre vos doutes",
+        "de": "Kontaktieren Sie uns, um einen Besichtigungstermin zu vereinbaren oder Ihre Fragen zu klären",
+        "it": "Contattaci per fissare una visita o risolvere i tuoi dubbi"
+    },
+    "contactFormTitle": {
+        "es": "Formulario de Contacto",
+        "en": "Contact Form",
+        "fr": "Formulaire de contact",
+        "de": "Kontaktformular",
+        "it": "Modulo di contatto"
+    },
+    "contactFormSubtitle": {
+        "es": "Rellena este formulario y nos pondremos en contacto contigo en menos de 24 horas",
+        "en": "Fill out this form and we will contact you within 24 hours",
+        "fr": "Remplissez ce formulaire et nous vous contacterons dans les 24 heures",
+        "de": "Füllen Sie dieses Formular aus und wir werden Sie innerhalb von 24 Stunden kontaktieren",
+        "it": "Compila questo modulo e ti contatteremo entro 24 ore"
+    },
+    "formLabelName": {
+        "es": "Nombre completo *",
+        "en": "Full name *",
+        "fr": "Nom complet *",
+        "de": "Vollständiger Name *",
+        "it": "Nome completo *"
+    },
+    "formLabelEmail": {
+        "es": "Email *",
+        "en": "Email *",
+        "fr": "Email *",
+        "de": "E-Mail *",
+        "it": "Email *"
+    },
+    "formLabelPhone": {
+        "es": "Teléfono *",
+        "en": "Phone *",
+        "fr": "Téléphone *",
+        "de": "Telefon *",
+        "it": "Telefono *"
+    },
+    "formLabelDate": {
+        "es": "Fecha preferente de visita",
+        "en": "Preferred visit date",
+        "fr": "Date de visite préférée",
+        "de": "Bevorzugtes Besuchsdatum",
+        "it": "Data preferita per la visita"
+    },
+    "formLabelMessage": {
+        "es": "Mensaje",
+        "en": "Message",
+        "fr": "Message",
+        "de": "Nachricht",
+        "it": "Messaggio"
+    },
+    "formLabelPrivacy": {
+        "es": "Acepto la política de privacidad y el tratamiento de mis datos",
+        "en": "I accept the privacy policy and the processing of my data",
+        "fr": "J'accepte la politique de confidentialité et le traitement de mes données",
+        "de": "Ich akzeptiere die Datenschutzbestimmungen und die Verarbeitung meiner Daten",
+        "it": "Accetto la politica sulla privacy e il trattamento dei miei dati"
+    },
+    "formSubmitButton": {
+        "es": "Enviar solicitud",
+        "en": "Send request",
+        "fr": "Envoyer la demande",
+        "de": "Anfrage senden",
+        "it": "Invia richiesta"
+    },
+    "formSubmitSuccess": {
+        "es": "¡Gracias por tu mensaje! Nos pondremos en contacto contigo lo antes posible.",
+        "en": "Thank you for your message! We will contact you as soon as possible.",
+        "fr": "Merci pour votre message ! Nous vous contacterons dans les plus brefs délais.",
+        "de": "Vielen Dank für Ihre Nachricht! Wir werden Sie so schnell wie möglich kontaktieren.",
+        "it": "Grazie per il tuo messaggio! Ti contatteremo il prima possibile."
+    },
+    "contactInfoPhoneTitle": {
+        "es": "Teléfono",
+        "en": "Phone",
+        "fr": "Téléphone",
+        "de": "Telefon",
+        "it": "Telefono"
+    },
+    "contactInfoPhoneHours": {
+        "es": "Lunes a Viernes 9:00-20:00",
+        "en": "Monday to Friday 9:00 AM - 8:00 PM",
+        "fr": "Lundi au Vendredi 9:00-20:00",
+        "de": "Montag bis Freitag 9:00-20:00 Uhr",
+        "it": "Lunedì a Venerdì 9:00-20:00"
+    },
+    "contactInfoEmailTitle": {
+        "es": "Email",
+        "en": "Email",
+        "fr": "Email",
+        "de": "E-Mail",
+        "it": "Email"
+    },
+    "contactInfoEmailResponse": {
+        "es": "Respuesta en menos de 24h",
+        "en": "Response in less than 24h",
+        "fr": "Réponse en moins de 24h",
+        "de": "Antwort in weniger als 24 Stunden",
+        "it": "Risposta in meno di 24h"
+    },
+    "contactInfoOfficeTitle": {
+        "es": "Oficina",
+        "en": "Office",
+        "fr": "Bureau",
+        "de": "Büro",
+        "it": "Ufficio"
+    },
+    "contactInfoOfficeLocation": {
+        "es": "Port Saplaya, Valencia",
+        "en": "Port Saplaya, Valencia",
+        "fr": "Port Saplaya, Valence",
+        "de": "Port Saplaya, Valencia",
+        "it": "Port Saplaya, Valencia"
+    },
+    "footerBrandName": {
+        "es": "Port Saplaya Living",
+        "en": "Port Saplaya Living",
+        "fr": "Port Saplaya Living",
+        "de": "Port Saplaya Living",
+        "it": "Port Saplaya Living"
+    },
+    "footerDescription": {
+        "es": "Especialistas en alquileres de calidad en la zona más exclusiva de Port Saplaya.",
+        "en": "Specialists in quality rentals in the most exclusive area of Port Saplaya.",
+        "fr": "Spécialistes des locations de qualité dans la zone la plus exclusive de Port Saplaya.",
+        "de": "Spezialisten für hochwertige Vermietungen in der exklusivsten Gegend von Port Saplaya.",
+        "it": "Specialisti in affitti di qualità nella zona più esclusiva di Port Saplaya."
+    },
+    "footerQuickLinksTitle": {
+        "es": "Enlaces rápidos",
+        "en": "Quick Links",
+        "fr": "Liens rapides",
+        "de": "Schnelllinks",
+        "it": "Link rapidi"
+    },
+    "footerLinkInicio": {
+        "es": "Inicio",
+        "en": "Home",
+        "fr": "Accueil",
+        "de": "Startseite",
+        "it": "Inizio"
+    },
+    "footerLinkGaleria": {
+        "es": "Galería",
+        "en": "Gallery",
+        "fr": "Galerie",
+        "de": "Galerie",
+        "it": "Galleria"
+    },
+    "footerLinkDetalles": {
+        "es": "Detalles",
+        "en": "Details",
+        "fr": "Détails",
+        "de": "Details",
+        "it": "Dettagli"
+    },
+    "footerLinkUbicacion": {
+        "es": "Ubicación",
+        "en": "Location",
+        "fr": "Emplacement",
+        "de": "Lage",
+        "it": "Posizione"
+    },
+    "footerLinkContacto": {
+        "es": "Contacto",
+        "en": "Contact",
+        "fr": "Contact",
+        "de": "Kontakt",
+        "it": "Contatti"
+    },
+    "footerPropertiesTitle": {
+        "es": "Propiedades",
+        "en": "Properties",
+        "fr": "Propriétés",
+        "de": "Immobilien",
+        "it": "Proprietà"
+    },
+    "footerPropLinkApartments": {
+        "es": "Pisos en alquiler",
+        "en": "Apartments for rent",
+        "fr": "Appartements à louer",
+        "de": "Wohnungen zu vermieten",
+        "it": "Appartamenti in affitto"
+    },
+    "footerPropLinkSeaView": {
+        "es": "Viviendas con vistas al mar",
+        "en": "Properties with sea views",
+        "fr": "Propriétés avec vue sur mer",
+        "de": "Immobilien mit Meerblick",
+        "it": "Immobili con vista mare"
+    },
+    "footerPropLinkPremium": {
+        "es": "Propiedades premium",
+        "en": "Premium properties",
+        "fr": "Propriétés premium",
+        "de": "Premium-Immobilien",
+        "it": "Proprietà premium"
+    },
+    "footerPropLinkStudios": {
+        "es": "Estudios",
+        "en": "Studios",
+        "fr": "Studios",
+        "de": "Studios",
+        "it": "Monolocali"
+    },
+    "footerPropLinkPenthouses": {
+        "es": "Áticos",
+        "en": "Penthouses",
+        "fr": "Penthouses",
+        "de": "Penthouses",
+        "it": "Attici"
+    },
+    "footerLegalTitle": {
+        "es": "Legal",
+        "en": "Legal",
+        "fr": "Mentions légales",
+        "de": "Rechtliches",
+        "it": "Legale"
+    },
+    "footerLegalPrivacy": {
+        "es": "Política de privacidad",
+        "en": "Privacy Policy",
+        "fr": "Politique de confidentialité",
+        "de": "Datenschutzrichtlinie",
+        "it": "Informativa sulla privacy"
+    },
+    "footerLegalTerms": {
+        "es": "Términos y condiciones",
+        "en": "Terms and Conditions",
+        "fr": "Termes et conditions",
+        "de": "Allgemeine Geschäftsbedingungen",
+        "it": "Termini e condizioni"
+    },
+    "footerLegalNotice": {
+        "es": "Aviso legal",
+        "en": "Legal Notice",
+        "fr": "Mentions légales",
+        "de": "Impressum",
+        "it": "Note legali"
+    },
+    "footerLegalCookies": {
+        "es": "Cookies",
+        "en": "Cookies",
+        "fr": "Cookies",
+        "de": "Cookies",
+        "it": "Cookie"
+    },
+    "footerCopyright": {
+        "es": "© 2025 Port Saplaya Living. Todos los derechos reservados.",
+        "en": "© 2025 Port Saplaya Living. All rights reserved.",
+        "fr": "© 2025 Port Saplaya Living. Tous droits réservés.",
+        "de": "© 2025 Port Saplaya Living. Alle Rechte vorbehalten.",
+        "it": "© 2025 Port Saplaya Living. Tutti i diritti riservati."
+    },
+    "whatsappButton": {
+        "es": "Contactar por WhatsApp",
+        "en": "Contact via WhatsApp",
+        "fr": "Contacter par WhatsApp",
+        "de": "Über WhatsApp kontaktieren",
+        "it": "Contatta via WhatsApp"
+    }
   }
-}

@@ -1,6 +1,6 @@
 // Manejo del Preloader
 const preloader = document.getElementById('preloader');
-const minimumDisplayTime = 1000; // Mínimo tiempo de visualización en milisegundos (2 segundos)
+const minimumDisplayTime = 3000; // Mínimo tiempo de visualización en milisegundos (2 segundos)
 let startTime = Date.now();
 let loadTime;
 
